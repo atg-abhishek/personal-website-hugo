@@ -1,3 +1,249 @@
-baseURL = "http://example.org/"
+# Site settings
+baseURL = "https://atg-abhishek.github.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Abhishek Gupta | AI Ethics Researcher"
+theme = "forty"
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-112733950-1"
+
+[params]
+  # You can use Markdown syntax for urls [text](//url.to/source)
+  # To create multi-line text in strings use the """example Text""" format
+  #
+  # All icons using Fontawesome's icon font. Look at fontawesome.io/icons
+  # for more icons. The icons are represented by their corresponding
+  # CSS class.
+
+  # Provide your metadata here.
+  name = "Abhishek Gupta"
+  description = "AI Ethics Researcher | Machine Learning Engineer"
+
+  # Link custom assets relative to /static
+  custom_css = []
+  custom_js  = []
+  favicon    = "favicon.ico"
+
+  # Just a custom image variable, please define it in .md files for content.
+  image = ""
+
+  # 404 error customization
+  [params.error404]
+    heading = "Page couldn't be found"
+    text = "Please visit [this page](/)"
+    url = "404.html"
+
+  # Navigation Section
+  [params.navigation]
+    title = "Abhishek Gupta"
+    subtitle = "AI Ethics Researcher"
+    menu = "Menu"
+    # Optional logo as brand stored in img/
+    # logo = "logo.png"
+
+    [[params.navigation.links]]
+      name = "Home"
+      url = "#"
+
+    [[params.navigation.links]]
+      name = "About"
+      url = "about"
+
+    [[params.navigation.links]]
+      name = "Current Work"
+      url = "about/currentwork"
+
+    [[params.navigation.links]]
+      name = "Talks"
+      url = "about/conferences"
+
+    [[params.navigation.links]]
+      name = "Publications"
+      url = "about/publications"
+
+    [[params.navigation.links]]
+      name = "Media Coverage"
+      url = "about/mediacoverage"
+
+    [[params.navigation.links]]
+      name = "Videos"
+      url = "about/videos"
+
+    [[params.navigation.links]]
+      name = "Contact"
+      url = "mailto:abhishek@montrealethics.ai"
+
+    # [[params.navigation.links]]
+    #   name = "Elements"
+    #   url = "elements.html"
+
+    # Add custom links here by uncommenting code below. To remove links just delete
+    # the [[params.navigation.links]] map associated with that link. Copy and paste
+    # code below if you need more links. Buttons work in the same way.
+    # [[params.navigation.links]]
+    #    name = "NameOfLink"
+    #    url = "UrlOfLink"
+
+    # # Button Style 1
+    # [[params.navigation.button1]]
+    #   name = "Get Started"
+    #   url = "blogs"
+
+    # # Button Style 2
+    # [[params.navigation.button2]]
+    #   name = "Log In"
+    #   url = "#"
+
+
+  # Banner section
+  [params.banner]
+    # To change the background image on the homepage banner, replace 'banner.jpg' in
+    # the 'static/img' folder.
+    title = "Abhishek Gupta - AI Ethics Researcher"
+    subtitle = "I am the founder of the Montreal AI Ethics Institute and an AI Ethics researcher (McGill University) working on creating ethical, safe and inclusive AI systems. I work as a Software Engineer doing machine learning at Microsoft in Montreal, Canada. I serve on the AI Ethics Review Board for Commercial Software Engineering at Microsoft."
+    buttonText = "Learn more"
+
+
+  # Tiles Section
+  [params.tiles]
+    enable = true
+    # Display your showcases here.
+
+    [[params.tiles.showcase]]
+      title = "About"
+      subtitle = "More information on my work"
+      image = "about.jpg"
+      url = "about"
+
+    [[params.tiles.showcase]]
+      title = "MAIEI"
+      subtitle = "Montreal AI Ethics Institute"
+      image = "maiei.png"
+      url = "https://montrealethics.ai"
+
+    [[params.tiles.showcase]]
+      title = "Canada Protocol"
+      subtitle = "Responsible use of AI in mental health applications"
+      image = "canadaprotocol.jpg"
+      url = "about/canadaprotocol"
+
+    [[params.tiles.showcase]]
+      title = "Videos"
+      subtitle = "Video interviews and features"
+      image = "videos_cover.jpg"
+      url = "about/videos"
+
+    [[params.tiles.showcase]]
+      title = "Meetups"
+      subtitle = "Community work in AI ethics"
+      image = "meetup.jpg"
+      url = "https://montrealethics.ai/meetup/"
+
+    [[params.tiles.showcase]]
+      title = "Machine Learning and AI Ethics Best Practices"
+      subtitle = "Technical and other guides (Work in Progress)"
+      image = "technical.jpg"
+      url = "https://github.com/atg-abhishek/cse-aiethics-ml-best-practices"
+    # You can make more showcases by copy and pasting the code above
+
+  [params.blog]
+    # All blogs defined in their own files. You can find example blogs
+    # at 'exampleSite/content/blogs'. Copy the 'blogs' folder into the 'content' directory
+    # at the root of this Hugo site.
+    # For more informtion take a look at the README.
+    # To add more blogs just copy and paste the code.
+
+  # Section Type Two
+  [params.two]
+    enable = true
+    title = "AI Ethics Newsletter Signup"
+    subtitle = """
+    Signup to receive your weekly digest of content from around the world on ai ethics and discussions from our community on creating ethical, safe and inclusive AI systems.
+    """
+    buttonText = "Sign me up!"
+    url = "https://bit.ly/maieisubscribe"
+
+
+#   # Contact section
+#   [params.contact]
+#     enable = true
+#     buttonSend = "Send message"
+#     buttonClear = "Clear"
+
+#     # Since this template is static, the contact form uses www.formspree.io as a
+#     # proxy. The form makes a POST request to their servers to send the actual
+#     # email. Visitors can send up to a 1000 emails each month for free.
+#     #
+#     # What you need to do for the setup?
+#     #
+#     # - set your email address under 'email' below and uncomment
+#     # - upload the generated site to your server
+#     # - send a dummy email yourself to confirm your account
+#     # - click the confirm link in the email from www.formspree.io
+#     # - you're done. Happy mailing!
+#     # formEmail = "example@domain.com"
+
+#     # Contact Section
+#     # You can add multiple emails, phone numbers, or addresses
+#     # by copying the corresponding map with frontmatter code.
+#     [[params.contact.email]]
+#     title = "Email"
+#     email = "abhishek@montrealethics.ai"
+
+#     # [[params.contact.phone]]
+#     # title = "Phone"
+#     # phone = "(000) 000-0000 x1234"
+
+#     # [[params.contact.address]]
+#     # title = "Address"
+#     # street = "Street"
+#     # city = "City, ST 00000"
+#     # country = "Country"
+
+  # Footer section
+  [params.footer]
+    enable = true
+    copyright = "Abhishek Gupta 2019"
+
+    # Uses font awesome icons
+    [[params.footer.social]]
+      icon = "fa-twitter"
+      url= "https://www.twitter.com/atg_abhishek"
+      label = "Twitter"
+
+    [[params.footer.social]]
+      icon = "fa-users"
+      url= "https://meetup.com/Artificial-Intelligence-Ethics/"
+      label = "Meetup"
+
+    [[params.footer.social]]
+      icon = "fa-envelope"
+      url= "mailto:abhishek@montrealethics.ai"
+      label = "Email"
+    
+    [[params.footer.social]]
+      icon = "fa-github"
+      url= "https://github.com/atg-abhishek"
+      label = "GitHub"
+
+    [[params.footer.social]]
+      icon = "fa-linkedin"
+      url= "https://linkedin.com/in/abhishekguptamcgill"
+      label = "LinkedIn"
+
+    [[params.footer.social]]
+      icon = "fa-medium"
+      url= "https://medium.com/@atg.abhishek"
+      label = "Medium"
+
+    [[params.footer.social]]
+      icon = "fa-graduation-cap"
+      url= "https://scholar.google.com/citations?hl=en&user=SLj2i_0AAAAJ"
+      label = "Google Scholar"
+
+
+
+    # [[params.footer.quicklinks]]
+    #   text = "Design: "
+    #   url= "https://www.html5up.net"
+    #   alt = "HTML5 UP"

@@ -1,0 +1,361 @@
+---
+title: "Talks"
+description: "Speaking engagements including invited talks, presentations, hosted sessions, guest lectures and roundtable discussions"
+slug: "conferences"
+image: talks.jpg
+keywords: ""
+categories: 
+    - ""
+    - ""
+date: 2017-10-31T22:24:09-05:00
+# draft: false
+---
+
+*Featured image courtesy of [REWORK](https://www.flickr.com/photos/teamrework/45611995822/in/album-72157697192717180/)*
+
+#### SPEAKER
+##### NORTH AMERICAN REGIONAL SUMMIT (AMERICAN UNIVERSITY OF BEIRUT) MONTREAL 2018  
+The Future of AI: Utopia or Dystopia?    
+[NARS AUB Summit Montreal 2018](https://alumni.aub.edu.lb/s/1716/index.aspx?sid=1716&gid=2&pgid=1192)
+
+---
+
+#### PANELIST
+##### TECHSTARS MONTREAL 2018  
+Panel on regulations and legal frameworks on data privacy    
+*Invite only event*
+
+---
+
+#### PANELIST
+##### REWORK AI FOR GOVERNMENT SUMMIT TORONTO 2018
+  
+Should Government regulate AI?  
+[REWORK AI for Government Summit Toronto 2018](https://www.re-work.co/events/ai-for-government-summit-canada-2018/schedule#day_2)
+
+---
+
+#### PANELIST
+##### REWORK AI FOR GOVERNMENT SUMMIT TORONTO 2018
+  
+AI for Law Enforcement and Fraud  
+[REWORK AI for Government Summit Toronto 2018](https://www.re-work.co/events/ai-for-government-summit-canada-2018/schedule#day_2)
+
+---
+
+#### SPEAKER
+##### OTTIAQ ANNUAL CONFERENCE - HUMAN RELATIONS IN THE AGE OF ARTIFICIAL INTELLIGENCE, MONTREAL 2018
+  
+Ethical Development of AI : A Practical Approach    
+[OTTIAQ AI conference Montreal 2018](https://ottiaq.org/en/communications-activities-and-events/ottiaq-events/annual-conference/)
+
+
+---
+
+#### SPEAKER
+##### HOW ARTIFICIAL INTELLIGENCE IS CHANGING THE WAY WE DO BUSINESS, MONTREAL 2018
+  
+An introduction to the ethical development of AI      
+[BQBC AI Conference](http://bqbc.org/wp-content/uploads/2018/09/INVITATION-BQBC-AI-Conference-How-AI-is-changing-the-way-we-do-business-EN.pdf)
+
+
+---
+
+#### SPEAKER
+##### MCGILL: DATA SCIENCE FOR BUSINESS DECISIONS
+  
+Guest Lecture - AI Ethics     
+[McGill Data Science for Business Decisions](https://continuingstudies.mcgill.ca/search/publicCourseSearchDetails.do?method=load&courseId=552982)
+
+
+---
+
+#### PANELIST
+##### SAP AI CONFERENCE
+  
+Ethics in AI: Meet the Experts       
+*Invite only event*
+
+
+---
+
+#### SPEAKER
+##### EDUCATION IN THE 21ST CENTURY SYMPOSIUM ON AI AND EDUCATION, OTTAWA 2018
+  
+How might an ethically and morally-informed AI be conceived in a culturally diverse global context?       
+[E21 Consortium Symposium](http://e21consortium.com/symposium/)
+
+
+---
+
+#### PANELIST
+##### REWORK: AI IN INDUSTRIAL AUTOMATION SUMMIT SAN FRANCISCO 2018
+  
+Future of Cybersecurity for Businesses implementing AI        
+[REWORK San Francisco 2018 Industrial Automation AI Summit](https://www.re-work.co/events/ai-industrial-automation-summit-san-francisco-2018)
+
+
+---
+
+#### PANELIST
+##### REWORK: AI IN INDUSTRIAL AUTOMATION SUMMIT SAN FRANCISCO 2018
+  
+Global Policy Surrounding AI and Autonomous Systems          
+[REWORK San Francisco 2018 Deep Learning for Robotics Summit](https://www.re-work.co/events/deep-learning-for-robotics-summit-san-francisco-2018)
+
+
+---
+
+#### PANELIST
+##### REWORK: DEEP LEARNING FOR ROBOTICS SUMMIT SAN FRANCISCO 2018
+  
+Humanising AI and the Ethical Implications of Technology            
+[REWORK San Francisco 2018 Industrial Automation AI Summit](https://www.re-work.co/events/ai-industrial-automation-summit-san-francisco-2018)
+
+
+---
+
+#### PANELIST
+##### DAWSON COLLEGE AI SYMPOSIUM
+  
+Impact of AI and Big Data on Society              
+*Link coming soon*
+
+
+---
+
+#### SPEAKER
+##### THE NEXT WEB CONFERENCE, AMSTERDAM 2018
+  
+Ethical Development of AI: A Practical Approach            
+[The Next Web Conference Engage Sessions](https://thenextweb.com/conference/Sessions)
+
+
+---
+
+#### PANELIST
+##### HR TECH SUMMIT TORONTO 2018
+  
+Addressing Tech’s Ethical Dark Side: How Can We Ensure that AI is Used for the Good              
+[HR Tech Summit Toronto 2018](http://hrtechsummit.com/toronto/)
+
+
+---
+
+#### SPEAKER
+##### OXFORD INTERNET INSTITUTE - CONNECTED LIFE, LONDON 2018
+  
+Inclusive design -How do we ensure a high degree of participation in Artificial Intelligence (AI) systems?              
+[Connected Life 2018](http://connectedlife.oii.ox.ac.uk/)
+
+
+---
+
+#### PANELIST
+##### RIGHTSCON TORONTO 2018
+  
+Workers Data Rights - Making sure the human remains in human resources           
+[Rightscon Toronto 2018](https://www.rightscon.org/)
+
+
+---
+
+#### CANADA DELEGATION LEAD
+##### AI FOR GOOD GLOBAL SUMMIT, GENEVA 2018
+  
+Discussion of AI Ethics work being done in Canada           
+[AI for Good Global Summit Geneva 2018](https://www.itu.int/en/ITU-T/AI/2018/Pages/default.aspx)  
+[YouTube Interview](https://atg-abhishek.github.io/about/videos)
+
+---
+
+#### MODERATOR
+##### AI CONFERENCE BY THE CANADIAN GERMAN CHAMBER OF INDUSTRY AND COMMERCE, MONTREAL
+  
+AI automation and employee replacement – What precautions can be taken to avoid sector specific unemployment?           
+[Transatlantic Dialogue: AI Conference Montreal 2018](https://transatlanticdialogue.ca/artificial-intelligence)
+
+
+---
+
+#### CONTRIBUTOR - AI EXPERT
+##### INGSA WORKSHOP ON EVALUATING WELLBEING IN THE DIGITAL AGE, LONDON
+  
+Guiding discussions from a technical and policy perspective on the impact that AI will have on wellbeing            
+*Invite-only workshop*
+
+
+---
+
+#### SPEAKER
+##### CONCORDIA MANAGEMENT CONSULTING - WORKPLACE 2020
+  
+Introduction to Artificial Intelligence and the ethical development of AI        
+[MCC Concordia Workplace 2020](http://mrktventure.com/mcc2020/)
+
+
+---
+
+#### SPEAKER
+##### BROOKFIELD INSTITUTE - AI + PUBLIC POLICY: UNDERSTANDING THE SHIFT
+  
+Lightning Talk on the ethical development of AI        
+[Brookfield + Autodesk Toronto 2018](http://brookfieldinstitute.ca/ai-public-policy-shift/)
+[YouTube Link](https://atg-abhishek.github.io/about/videos)
+
+
+---
+
+#### SPEAKER
+##### URBAIN ROUND TABLE CONFERENCE 2018 - ARTIFICIAL INTELLIGENCE AND THE CITY
+  
+Ethical Implications of using AI in Smart Cities        
+[NewCities Roundtable Series 2018](https://newcities.org/wp-content/uploads/PDF/Roundtable-Series-2018-EN.pdf)
+
+
+---
+
+#### CONTRIBUTOR
+##### REFRAMEWORK - RADIUS SFU | ALTNOW | BANFF CENTER
+  
+Practical Industry and Academia experiences: AI ethics         
+[ReframeWork Vancouver 2018](https://www.sfu.ca/publicsquare/2018-summit/reframework-insights-to-action.html)
+
+
+---
+
+#### PANELIST
+##### TECH AGAINST TERRORISM MONTREAL WORKSHOP 2018
+  
+Artificial Intelligence and Ethics – the requirement for transparency           
+[Tech Againt Terrorism Montreal Workshop 2018](https://www.eventbrite.co.uk/e/tech-against-terrorism-launch-of-the-data-science-network-tickets-43024901639)
+
+
+---
+
+#### SPEAKER
+##### KEEPING UP WITH THE SPEED OF DISRUPTION: A PUBLIC POLICY FORUM SEMINAR SERIES
+  
+Session #1: The New Intelligence         
+[Keeping Up With The Speed of Disruption](https://www.eventbrite.ca/e/keeping-up-with-the-speed-of-disruption-a-ppf-seminar-series-registration-41824705821)
+
+
+---
+
+#### PROGRAM COMMITTEE
+##### THE 31ST INTERNATIONAL CONFERENCE ON INDUSTRIAL, ENGINEERING & OTHER APPLICATIONS OF APPLIED INTELLIGENT SYSTEMS 2018
+  
+Special Track: Artifical Intelligence, Law and Justice  S         
+[IEA AIE 2018](http://ieaaie2018.encs.concordia.ca/)
+
+
+---
+
+#### PANELIST
+##### MASSEY SCIENCE CONFERENCE - FRANKLIN FORUM, TORONTO 2018
+  
+How can we use AI ethically, transparently, and safely?           
+[Massey Science Conference](https://www.masseycollege.ca/)
+
+
+---
+
+#### PANELIST
+##### SCHOOL OF COMMUNITY AND PUBLIC AFFAIRS, CONCORDIA UNIVERSITY
+  
+Social Debates and Issues in Public Policy Analysis - Artificial Intelligence Panel             
+[Concordia SCPA](https://www.concordia.ca/artsci/scpa.html)
+
+
+---
+
+#### CONTENT EXPERT
+##### REWORK DEEP LEARNING SUMMIT SAN FRANCISCO 2018
+  
+Workshop: Introduction to Deep Learning           
+[REWORK Deep Learning Summit San Francisco 2018](https://www.re-work.co/events/deep-learning-summit-san-francisco-2018)
+
+
+---
+
+#### PANELIST
+##### REWORK AI ASSISTANT SUMMIT SAN FRANCISCO 2018
+  
+As Our AI Systems Become More Capable, Should Ethics be an Integral Component to your Business Strategy?             
+[REWORK AI Assistant Summit San Francisco 2018](https://www.re-work.co/events/ai-assistant-summit-san-francisco-2018)
+
+
+---
+
+#### PANELIST
+##### REWORK DEEP LEARNING SUMMIT SAN FRANCISCO 2018
+  
+What are the Main Practical Safety Issues with AI Products?           
+[REWORK Deep Learning Summit San Francisco 2018](https://www.re-work.co/events/deep-learning-summit-san-francisco-2018)
+
+
+---
+
+#### PANELIST
+##### TRANSATLANTIC ICT FORUM, EUROPEAN PARLIAMENT, BRUSSELS 2017
+  
+Artificial Intelligence and Social Inclusion             
+[Transatlantic ICT Forum, European Parliament, Brussels 2017](http://discoveryproject.eu/transatlantic-ict-forum-2017-agenda/)
+
+
+---
+
+#### ORGANIZER AND FACILITATOR
+##### WORKSHOP SERIES AT MCGILL UNIVERSITY, MONTREAL 2017-18
+  
+Ethical Development of AI - A Practical Approach - Workshop 1           
+[Workshop 1 - Ethical Development of AI - A Practical Approach](https://www.eventbrite.com/e/ethical-development-of-ai-a-practical-approach-tickets-39442422347)
+
+
+---
+
+#### FACILITATOR AND CO-ORGANIZER
+##### WORKSHOP WITH ELEMENTAI AT FWD50, OTTAWA 2017
+  
+Government and AI            
+[FWD50 Ottawa 2017](https://www.fwd50.com/)
+
+
+---
+
+#### SPEAKER
+##### TANDEM LAUNCH AI MTL 2017
+  
+Exploring AI Ethics and NLP using Chatbots        
+[TandemLaunch AI MTL](https://www.meetup.com/AI-MTL/events/244217964/)
+
+
+---
+
+#### PANELIST
+##### CENTRE JACQUES CARTIER: TRANSPARENCE ET RESPONSABILITÉ DES ALGORITHMES, MONTREAL 2017
+  
+Table-ronde : Les algorithmes dans l’économie numérique            
+[UQAM Centre Jacques Cartier](https://www.centrejacquescartier.com/les-entretiens/details/entretien/transparence-et-responsabilite-des-algorithmes/)
+
+
+---
+
+#### SPEAKER
+##### MONTREAL AI SYMPOSIUM 2017
+  
+Meticulous Transparency — A Necessary Practice for Ethical AI            
+[Montreal AI Symposium](http://montrealaisymposium.com/)  
+[YouTube Link](https://atg-abhishek.github.io/about/videos)
+
+---
+
+#### MONTREAL DELEGATION ORGANIZER - DISTRICT 3
+##### AI FOR GOOD GLOBAL SUMMIT, GENEVA 2017
+  
+Discussion of AI Ethics work being done in Montreal            
+[AI for Good Global Summit Geneva 2017](https://www.itu.int/en/ITU-T/AI/Pages/201706-default.aspx)  
+[YouTube Link](https://www.youtube.com/watch?v=qiG5QNJbcKw)
+
+
+---
