@@ -29,8 +29,8 @@ googleAnalytics = "UA-112733950-1"
 
   # 404 error customization
   [params.error404]
-    heading = "Page couldn't be found"
-    text = "Please visit [this page](/)"
+    heading = "This page doesn't exist!"
+    text = "Take me [home](/)"
     url = "404.html"
 
   # Navigation Section

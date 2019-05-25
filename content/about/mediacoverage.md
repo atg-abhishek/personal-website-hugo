@@ -13,6 +13,16 @@ date: 2017-10-31T22:22:09-05:00
 
 *Featured image courtesy of [AI for Good Global Summit](https://aiforgood.itu.int/)*
 
+---
+
+<h3 style="text-align: center;">As seen in</h3>
+
+<p style="text-align: center;"> <img src="https://github.com/atg-abhishek/personal-website-hugo/raw/master/static/img/about/media_features.png">  </p>
+
+<p style="text-align: center;"><i>All copyrights and trademarks belong to the owners of the images</i></p>
+
+---
+
 #### QUAND L’INTELLIGENCE ARTIFICIELLE DÉRAPE
 ##### L'ACTUALITÉ  
 December 5, 2018  
