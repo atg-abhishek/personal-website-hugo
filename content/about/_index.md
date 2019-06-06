@@ -1,5 +1,5 @@
 ---
-title: "Abhishek Gupta | AI Ethics"
+title: "Abhishek Gupta | AI Ethics | Machine Learning"
 slug: "about"
 image: banner.jpg
 # date: 2017-10-31T22:27:21-05:00

@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://atg-abhishek.github.io"
 languageCode = "en-us"
-title = "Abhishek Gupta | AI Ethics Researcher"
+title = "Abhishek Gupta | AI Ethics Researcher | Machine Learning Engineer"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -36,7 +36,7 @@ googleAnalytics = "UA-112733950-1"
   # Navigation Section
   [params.navigation]
     title = "Abhishek Gupta"
-    subtitle = "AI Ethics Researcher"
+    subtitle = "AI Ethics Researcher | Machine Learning Engineer"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -99,7 +99,7 @@ googleAnalytics = "UA-112733950-1"
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Abhishek Gupta - AI Ethics Researcher"
+    title = "Abhishek Gupta - AI Ethics Researcher | Machine Learning Engineer"
     subtitle = "I am the founder of the Montreal AI Ethics Institute and an AI Ethics researcher (McGill University) working on creating ethical, safe and inclusive AI systems. I work as a Software Engineer doing machine learning at Microsoft in Montreal, Canada. I serve on the AI Ethics Review Board for Commercial Software Engineering at Microsoft."
     buttonText = "Learn more"
 
