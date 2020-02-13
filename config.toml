@@ -161,7 +161,7 @@ googleAnalytics = "UA-112733950-1"
     Signup to receive your weekly digest of content from around the world on ai ethics and discussions from our community on creating ethical, safe and inclusive AI systems.
     """
     buttonText = "Sign me up!"
-    url = "https://bit.ly/maieisubscribe"
+    url = "https://aiethics.substack.com"
 
 
 #   # Contact section
