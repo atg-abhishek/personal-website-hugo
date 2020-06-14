@@ -100,7 +100,7 @@ googleAnalytics = "UA-112733950-1"
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Abhishek Gupta - AI Ethics Researcher | Machine Learning Engineer"
-    subtitle = "I am the founder of the Montreal AI Ethics Institute and an AI Ethics researcher (McGill University) working on creating ethical, safe and inclusive AI systems. I work as a Software Engineer doing machine learning at Microsoft in Montreal, Canada. I serve on the AI Ethics Review Board for Commercial Software Engineering at Microsoft."
+    subtitle = "Abhishek Gupta is the founder of Montreal AI Ethics Institute and a Machine Learning Engineer at Microsoft where he serves on the CSE AI Ethics Review Board. His research focuses on applied technical and policy methods to address ethical, safety and inclusivity concerns in using AI in different domains. He has built the largest community driven, public consultation group on AI Ethics in the world that has made significant contributions to the development of many initiatives in the domain of responsible AI. His work on public competence building in AI Ethics has been recognized by governments from North America, Europe, Asia, and Oceania."
     buttonText = "Learn more"
 
 
@@ -121,11 +121,11 @@ googleAnalytics = "UA-112733950-1"
       image = "maiei.png"
       url = "https://montrealethics.ai"
 
-    [[params.tiles.showcase]]
-      title = "Canada Protocol"
-      subtitle = "Responsible use of AI in mental health applications"
-      image = "canadaprotocol.jpg"
-      url = "about/canadaprotocol"
+    # [[params.tiles.showcase]]
+    #   title = "Canada Protocol"
+    #   subtitle = "Responsible use of AI in mental health applications"
+    #   image = "canadaprotocol.jpg"
+    #   url = "about/canadaprotocol"
 
     [[params.tiles.showcase]]
       title = "Videos"
@@ -203,7 +203,7 @@ googleAnalytics = "UA-112733950-1"
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Abhishek Gupta 2019"
+    copyright = "Abhishek Gupta 2020"
 
     # Uses font awesome icons
     [[params.footer.social]]
@@ -213,7 +213,7 @@ googleAnalytics = "UA-112733950-1"
 
     [[params.footer.social]]
       icon = "fa-users"
-      url= "https://meetup.com/Artificial-Intelligence-Ethics/"
+      url= "https://montrealethics.ai/meetup/"
       label = "Meetup"
 
     [[params.footer.social]]
@@ -232,14 +232,19 @@ googleAnalytics = "UA-112733950-1"
       label = "LinkedIn"
 
     [[params.footer.social]]
-      icon = "fa-medium"
-      url= "https://medium.com/@atg.abhishek"
-      label = "Medium"
+      icon = "fa-pencil"
+      url= "https://montrealethics.ai/blog/"
+      label = "Writing"
 
     [[params.footer.social]]
       icon = "fa-graduation-cap"
       url= "https://scholar.google.com/citations?hl=en&user=SLj2i_0AAAAJ"
       label = "Google Scholar"
+
+    [[params.footer.social]]
+      icon = "fa-book"
+      url= "https://montrealethics.ai/learning-community/"
+      label = "MAIEI Learning Communities"
 
 
 
