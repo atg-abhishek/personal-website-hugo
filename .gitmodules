@@ -1,7 +1,4 @@
-[submodule "themes/forty"]
-	path = themes/forty
-	url = https://github.com/MarcusVirg/forty
 [submodule "public"]
 	path = public
-	url = git@github.com:atg-abhishek/atg-abhishek.github.io.git
+	url = https://github.com/atg-abhishek/atg-abhishek.github.io.git
 	branch = master
