@@ -15,8 +15,6 @@ date: 2017-10-31T22:26:09-05:00
 
 ## Areas of research, application and community engagement 
 
-* I founded the **[Montreal AI Ethics Institute](https://montrealethics.ai)** with the vision of creating tangible and practical research in the ethical, safe and inclusive development of AI. See the link for more details - Montreal AI Ethics Institute
-* I founded the **[meetup group on AI Ethics](https://montrealethics.ai/meetup)** in Montreal that meets once every two weeks to do a deep dive on different aspects of the ethical development of AI. We also work together as a community to provide feedback and recommendations to public documents like the Montreal Ethical AI Declaration. The group consists of members with diverse backgrounds like computer science, law, sociology, business, policy, etc.
 * **Labor shifts**: Labor impacts of AI-enabled automation in the financial services industry in Canada.
 * **AI Ethics in Education**: Introductory curriculum via a 4-part workshop series to introduce the topic of the ethical development of AI to students, faculty, staff and alumni of the McGill community.
 * **AI Ethics in Medicine**: Informed consent and its ethical implications in the field of medicine, especially when AI-enabled solutions are used in diagnosis and clinical trials.
