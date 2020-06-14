@@ -13,7 +13,7 @@ date: 2017-10-31T23:12:09-05:00
 
 ## Overview of my work 
 
-* **Founder, [Montreal AI Ethics Institute](https://montrealethics.ai)** and a **principal investigator** for several [projects](https://montrealethics.ai/about/) happening at the Montreal AI Ethics Institute
+* **Founder, [Montreal AI Ethics Institute](https://montrealethics.ai)** and a **principal investigator** for several [projects](https://montrealethics.ai/about/) happening at the Montreal AI Ethics Institute.
 
 * **Machine Learning Engineer, Microsoft** on the Commercial Software Engineering (CSE) team at Microsoft where I work on machine learning projects involving both Azure ML services and open-source implementations. The hallmarks of the CSE team are that we operate in a “code-with” model with our customers. The team is deeply technical and highly specialized in solving the toughest technical challenges faced by Microsoft’s customers and the team follows an open-sourcing model to contribute the code and insights to the community from our engagements. 
 
