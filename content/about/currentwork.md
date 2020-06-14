@@ -21,5 +21,6 @@ date: 2017-10-31T22:26:09-05:00
 * **Mission-driven AI**: research on how non-profits, social enterprises and NGOs can leverage machine learning solutions to help them stretch their donation dollars further by scaling the work that they do and increasing efficiency of their operations
 * **Social inclusion in AI**: Technical and policy approaches to increase social inclusion in the entire pipeline of AI - from design and conception, data collection and use all the way to the end-of-life management of a project.
 * **AI and Law**: Legal and ethical implications with the increasing use of AI in the context of emerging privacy and data security laws like the GDPR
+* **Participatory Design in Machine Learning** ...
 
 *If any one of the above areas interest you or you're interested in collaborating on the intersection of AI with another field and exploring its ethical implications, feel free to reach out to me via [email](mailto:abhishek@montrealethics.ai) or any other channel as linked in the bottom section.*
