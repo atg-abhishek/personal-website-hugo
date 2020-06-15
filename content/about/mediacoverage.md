@@ -23,6 +23,69 @@ date: 2017-10-31T22:22:09-05:00
 
 ---
 
+#### Researchers propose framework to measure AI’s social and environmental impact
+##### VentureBeat  
+June 12, 2020  
+[Article Link](https://venturebeat.com/2020/06/12/researchers-propose-framework-to-measure-ais-social-and-environmental-impact/)
+
+---
+
+#### A.I. engineers should spend time training not just algorithms, but also the humans who use them
+##### Fortune  
+May 5, 2020  
+[Article Link](https://fortune.com/2020/05/05/a-i-engineers-should-spend-time-training-not-just-algorithms-but-also-the-humans-who-use-them/)
+
+---
+
+#### Ethics and artificial intelligence: These researchers say tech has to have a moral backbone
+##### CBC  
+June 20, 2019  
+[Article Link](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-scientist-speaking-up-about-china-1.5179788)
+
+---
+
+#### Tech giants and civil society seek to institutionalize AI ethics
+##### Biometric Update  
+April 1, 2019  
+[Article Link](https://www.biometricupdate.com/201904/tech-giants-and-civil-society-seek-to-institutionalize-ai-ethics)
+
+---
+
+#### E is for ethics in AI — and Montreal's playing a leading role
+##### Montreal Gazette  
+March 30, 2019  
+[Article Link](https://montrealgazette.com/news/local-news/can-montreal-become-a-centre-not-just-for-artificial-intelligence-but-ethical-ai)
+
+---
+
+#### Exploring the ethical implications of AI
+##### McGill Alumni Magazine  
+March 2019  
+[Article Link](http://mcgillnews.mcgill.ca/s/1762/news/interior.aspx?gid=2&pgid=2056)
+
+---
+
+#### Artificial Intelligence: Will it be fair, unbiased and non-discriminatory?
+##### QueerTech Montreal  
+March 1, 2019  
+[Article Link](https://medium.com/queertech-montreal/artificial-intelligence-will-it-be-fair-unbiased-and-non-discriminatory-21331556e492)
+
+---
+
+#### 5 ways students can graduate fully qualified for the Fourth Industrial Revolution
+##### World Economic Forum  
+January 16, 2019  
+[Article Link](https://www.weforum.org/agenda/2019/01/how-students-can-graduate-qualified-for-fourth-industrial-revolution/)
+
+---
+
+#### AI and the human touch
+##### Human Resources Director magazine (pg. 10-11)
+December 13, 2018  
+[Article Link](https://issuu.com/keymedia/docs/hrd16.06_emag_-_ofc)
+
+---
+
 #### QUAND L’INTELLIGENCE ARTIFICIELLE DÉRAPE
 ##### L'ACTUALITÉ  
 December 5, 2018  
@@ -62,13 +125,6 @@ November 14, 2018
 ##### CJAD 800 MONTREAL - RADIO INTERVIEW 
 July 2, 2018          
 *Soundcloud Link coming soon*
-
----
-
-#### MONTREAL'S BOOMING TECH INDUSTRY JUGGLES ETHICS WITH INNOVATION
-##### MCGILL UNIVERSITY NEWS 
-December 17, 2017        
-[Article Link](https://www.mcgill.ca/channels/channels/news/montreals-booming-tech-industry-juggles-ethics-innovation-283443)
 
 ---
 
@@ -121,11 +177,24 @@ December 27, 2017
 
 ---
 
+#### Montreal turns attention to responsible artificial intelligence research
+##### BNN Bloomberg  
+December 23, 2017  
+[Article Link](https://www.bnnbloomberg.ca/montreal-turns-attention-to-responsible-artificial-intelligence-research-1.946850)
+
+---
+
 #### DAN DELMAR: QUEBEC IS WELL PLACED TO BECOME A LEADER IN AI ETHICS
 ##### MONTREAL GAZETTE
 December 19, 2017          
 [Article Link](http://montrealgazette.com/opinion/columnists/dan-delmar-quebec-is-well-placed-to-become-a-leader-in-ai-ethics)
 
+---
+
+#### MONTREAL'S BOOMING TECH INDUSTRY JUGGLES ETHICS WITH INNOVATION
+##### MCGILL UNIVERSITY NEWS 
+December 17, 2017        
+[Article Link](https://www.mcgill.ca/channels/channels/news/montreals-booming-tech-industry-juggles-ethics-innovation-283443)
 ---
 
 #### MONTREAL SEEKS TO BE WORLD LEADER IN RESPONSIBLE ARTIFICIAL INTELLIGENCE RESEARCH
