@@ -50,6 +50,10 @@ googleAnalytics = "UA-112733950-1"
       url = "about"
 
     [[params.navigation.links]]
+      name = "Overview of my work"
+      url = "about/workdetails"
+
+    [[params.navigation.links]]
       name = "Current Work"
       url = "about/currentwork"
 

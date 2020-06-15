@@ -11,7 +11,7 @@ date: 2017-10-31T23:12:09-05:00
 # draft: false
 ---
 
-## Overview of my work 
+## Current affiliations
 
 * **Founder, [Montreal AI Ethics Institute](https://montrealethics.ai)** and a **principal investigator** for several [projects](https://montrealethics.ai/about/) happening at the Montreal AI Ethics Institute.
 
@@ -37,5 +37,7 @@ date: 2017-10-31T23:12:09-05:00
  
 
 My research focuses on applied technical and policy methods to address ethical, safety and inclusivity concerns in using AI in different domains. I have built the largest community driven, public consultation group on AI Ethics in the world that has made significant contributions to the Montreal Declaration for Responsible AI, the G7 AI Summit, Australian Human Rights Council and World Economic Forum Responsible Innovation framework, PIPEDA (Canada's privacy law) amendments for AI impacts, Scotland’s national AI strategy and the European Commission Trustworthy AI Guidelines. My work on public competence building in AI Ethics has been recognized by governments from North America, Europe, Asia and Oceania. 
+
+My key areas of research focus are listed **[here](https://atg-abhishek.github.io/about/currentwork/)**
 
 *If any one of the above areas interest you or you're interested in collaborating on the intersection of AI with another field and exploring its ethical implications, feel free to reach out to me via [email](mailto:abhishek@montrealethics.ai) or any other channel as linked in the bottom section.*

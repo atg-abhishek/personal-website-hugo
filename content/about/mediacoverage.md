@@ -195,6 +195,7 @@ December 19, 2017
 ##### MCGILL UNIVERSITY NEWS 
 December 17, 2017        
 [Article Link](https://www.mcgill.ca/channels/channels/news/montreals-booming-tech-industry-juggles-ethics-innovation-283443)
+
 ---
 
 #### MONTREAL SEEKS TO BE WORLD LEADER IN RESPONSIBLE ARTIFICIAL INTELLIGENCE RESEARCH
