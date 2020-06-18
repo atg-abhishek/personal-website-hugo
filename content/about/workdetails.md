@@ -25,6 +25,8 @@ date: 2017-10-31T23:12:09-05:00
 
 * **Faculty Associate, Frankfurt Big Data Lab, Goethe University** serving to provide ethics and technical guidance on the Z-inspection project started by Dr. Roberto Zicari.
 
+* **Guest Lecturer, McGill University School of Continuing Studies** for the Data Science in Business Decisions course on the special topic of AI Ethics.
+
 * **Responsible AI Lead, Data Advisory Council, Northwest Commission on Colleges and Universities** helping the organization navigate the use of AI and big data practices in the education and administrative functions within educational organizations. 
 
 * **Global Shaper, World Economic Forum** part of the Montreal Hub and involved with the Responsible AI project that collected feedback from the general public to build an understanding of the layman's grasp of AI and potential ethical concerns that arise from its use.
