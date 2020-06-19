@@ -148,6 +148,12 @@ googleAnalytics = "UA-112733950-1"
       subtitle = "Technical and other guides (Work in Progress)"
       image = "technical.jpg"
       url = "https://github.com/atg-abhishek/cse-aiethics-ml-best-practices"
+
+    [[params.tiles.showcase]]
+      title = "Teaching and educational work"
+      subtitle = "Public competence building in AI ethics"
+      image = "education.jpg"
+      url = "https://montrealethics.ai/learning-community"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]

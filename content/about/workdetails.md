@@ -19,6 +19,8 @@ date: 2017-10-31T23:12:09-05:00
 
 * **Board Member, Responsible AI board for CSE, Microsoft** and through my involvement in serving on this board, I have exposure to applied projects across a variety of industries where a lot of these issues emerge. I have been a part of developing and implementing actionable guidance for developers and other stakeholders like designers, business managers, and others so that they can make informed decisions that align with the values and objectives of the organization.
 
+* **Visiting AI Ethics Researcher, Future of Work, International Visitor Leadership Program, US Department of State** selected to represent Canada on the future of work and develop a transnational understanding to inform policy work to address challenges in the future of work.
+
 * **Board Member, AI Advisory Board, Dawson College** helping the college shape its 5-year educational plan to incorporate AI meaningfully into the curriculum such that students are equipped for the future of work. Also, emphasizing for a focus on integrating the ethical, safe, and inclusive development of AI as a core tenet in the AI skill development process.
 
 * **Associate Member, LF AI Foundation, Linux Foundation** bringing AI ethics expertise to the foundation and working on incubating some of the ongoing technical work at MAIEI with the LF AI Foundation to work with other member organizations to build more open-source, open-access tooling in AI ethics.
@@ -28,6 +30,8 @@ date: 2017-10-31T23:12:09-05:00
 * **Guest Lecturer, McGill University School of Continuing Studies** for the Data Science in Business Decisions course on the special topic of AI Ethics.
 
 * **Responsible AI Lead, Data Advisory Council, Northwest Commission on Colleges and Universities** helping the organization navigate the use of AI and big data practices in the education and administrative functions within educational organizations. 
+
+* **Subject Matter Expert, Certified Ethical Emerging Technologies, CertNexus** helping the group create the world's first certification program for AI ethics for professionals.
 
 * **Global Shaper, World Economic Forum** part of the Montreal Hub and involved with the Responsible AI project that collected feedback from the general public to build an understanding of the layman's grasp of AI and potential ethical concerns that arise from its use.
 
