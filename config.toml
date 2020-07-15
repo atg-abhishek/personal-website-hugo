@@ -50,12 +50,20 @@ googleAnalytics = "UA-112733950-1"
       url = "about"
 
     [[params.navigation.links]]
+      name = "Book - Actionable AI Ethics"
+      url = "https://atg-abhishek.github.io/actionable-ai-ethics"
+
+    [[params.navigation.links]]
       name = "Overview of my work"
       url = "about/workdetails"
 
     [[params.navigation.links]]
       name = "Current Work"
       url = "about/currentwork"
+
+    [[params.navigation.links]]
+      name = "Presentations"
+      url = "https://atg-abhishek.github.io/presentations"
 
     [[params.navigation.links]]
       name = "Talks"
@@ -120,6 +128,12 @@ googleAnalytics = "UA-112733950-1"
       url = "about"
 
     [[params.tiles.showcase]]
+      title = "Book - Actionable AI Ethics"
+      subtitle = "Manning Publishers, 2021"
+      image = "technical.jpg"
+      url = "https://atg-abhishek.github.io/actionable-ai-ethics"
+
+    [[params.tiles.showcase]]
       title = "MAIEI"
       subtitle = "Montreal AI Ethics Institute"
       image = "maiei.png"
@@ -142,12 +156,6 @@ googleAnalytics = "UA-112733950-1"
       subtitle = "Community work in AI ethics"
       image = "meetup.jpg"
       url = "https://montrealethics.ai/meetup/"
-
-    [[params.tiles.showcase]]
-      title = "Machine Learning and AI Ethics Best Practices"
-      subtitle = "Technical and other guides (Work in Progress)"
-      image = "technical.jpg"
-      url = "https://github.com/atg-abhishek/cse-aiethics-ml-best-practices"
 
     [[params.tiles.showcase]]
       title = "Teaching and educational work"
