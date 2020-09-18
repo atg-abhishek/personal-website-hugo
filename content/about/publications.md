@@ -23,6 +23,13 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### AI ethics groups are repeating one of society’s classic mistakes
+##### MIT Technology Review
+Op-ed
+[Article Link](https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/)
+
+---
+
 #### Privacy and Security in AI
 ##### REWORK  
 White Paper Series    

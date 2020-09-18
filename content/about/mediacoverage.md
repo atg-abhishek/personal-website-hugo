@@ -23,6 +23,13 @@ date: 2017-10-31T22:22:09-05:00
 
 ---
 
+#### Could machine learning help bring marginalized voices into historical archives?
+##### VentureBeat
+August 19, 2020
+[Article Link](https://venturebeat.com/2020/08/19/could-machine-learning-help-bring-marginalized-voices-into-historical-archives/)
+
+---
+
 #### Researchers propose framework to measure AI’s social and environmental impact
 ##### VentureBeat  
 June 12, 2020  
