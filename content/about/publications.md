@@ -23,10 +23,78 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### Decoded Reality
+##### NeurIPS 2020 Resistance AI Workshop
+Art work accepted for poster presentation at the workshop
+[Abstract Link](https://sites.google.com/view/resistance-ai-neurips-20/accepted-papers-and-media?authuser=0)
+[Artwork Link](https://ai-ethics.github.io/decoded-reality/intro.html)
+
+---
+
+#### SECure: A Social and Environmental Certificate for AI Systems
+##### ICML 2020: Deploy and Monitor ML Workshop
+Paper accepted for poster presentation at the workshop
+[Abstract Link](https://sites.google.com/view/deploymonitormlsystems/open-problems?authuser=0#h.rlavhwvx9f1w)
+[Paper Link](https://arxiv.org/abs/2006.06217)
+
+---
+
+#### Green Lighting ML: Confidentiality, Integrity, and Availability of Machine Learning Systems in Deployment 
+##### ICML 2020: Deploy and Monitor ML Workshop
+Paper accepted for poster presentation at the workshop 
+[Abstract Link](https://sites.google.com/view/deploymonitormlsystems/open-problems?authuser=0#h.xastap6163vw)
+[Paper Link](https://arxiv.org/abs/2007.04693)
+
+---
+
+#### Adversarial ML Threat Matrix
+##### Microsoft Security | MITRE
+Contributor to the threat matrix
+[Article Link](https://www.microsoft.com/security/blog/2020/10/22/cyberattacks-against-machine-learning-systems-are-more-common-than-you-think/)
+[GitHub Link](https://github.com/mitre/advmlthreatmatrix)
+
+---
+
+#### Green Lighting ML: Confidentiality, Integrity, and Availability of Machine Learning Systems in Deployment
+##### Montreal AI Symposium 2020 
+Paper accepted for poster presentation at the conference
+[Poster Link](https://drive.google.com/file/d/1_SN1FLpLcRTLGeSnyFzWxlKcEXcXGexR/view?usp=drivesdk)
+[Video Link](https://www.youtube.com/watch?v=cQ4Qen14-sg)
+
+---
+
+#### The Gray Rhino of Pandemic Preparedness: Proactive digital, data, and organizational infrastructure to help humanity build resilience in the face of pandemics
+##### Future of Privacy Forum 2020 - Privacy & Pandemics: Responsible Uses of Technology & Health Data
+Position paper accepted for presentation at the conference
+[Paper Link](https://fpf.org/wp-content/uploads/2020/10/5-The-Gray-Rhino-of-Pandemic-Preparedness-pages-Main-Article.pdf)
+
+---
+
+#### THE CO-DESIGNED POST-PANDEMIC UNIVERSITY: A PARTICIPATORY AND CONTINUAL LEARNING APPROACH FOR THE FUTURE OF WORK
+##### Post Pandemic University 2020 Conference
+Position paper accepted for presentation at the conference
+[Paper link](https://postpandemicuniversity.net/2020/09/06/the-co-designed-post-pandemic-university-a-participatory-and-continual-learning-approach-for-the-future-of-work/)
+
+---
+
+#### Decoded Reality
+##### Resistance AI - NeurIPS 2020 Workshop
+Decoded Reality is a creative exploration of the Power dynamics that shape the Design, Development, and Deployment of Machine Learning and Data-driven Systems.
+[Art link](https://ai-ethics.github.io/decoded-reality/intro.html)
+
+---
+
 #### AI ethics groups are repeating one of society’s classic mistakes
 ##### MIT Technology Review
 Op-ed
 [Article Link](https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/)
+
+---
+
+#### Inclusively Designed Artificial Intelligence
+##### River Publishers
+Book chapter in Digital Innovation and the Future of Work
+_Link forthcoming soon_
 
 ---
 

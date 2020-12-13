@@ -13,11 +13,45 @@ date: 2017-10-31T22:21:09-05:00
 
 *Screenshot from the [BorealisAI Northern Frontier Series](https://www.borealisai.com/en/video/c/northern-frontier-interview-series/) featured interview on AI ethics*
 
+---
+
+#### Webinar Series on LAWS: Webinar 1 — Technological Aspects
+##### United Nations Institute for Disarmament Research 
+This is the first in a three-part Webinar series on the technological, military, and legal aspects of Lethal Autonomous Weapon Systems (LAWS). 
+
+[Video Link](https://www.youtube.com/watch?v=id655evv3yA&feature=emb_logo&ab_channel=UNIDIR)
+---
+
+#### AI Ethics and Art
+##### Artificio
+An interactive documentary series about the transformative power of artificial intelligence in the field of arts.
+
+[Video Link](https://artificio.io/)
+
+---
+
 #### Interview with BorealisAI
 ##### BorealisAI  
 Interview with [BorealisAI](https://www.borealisai.com/en/) that took a dive into the threat automation poses to job loss based on the current science, whether bias is the biggest problem we face in responsible AI, and what we should consider reasonable trade-offs for improving fairness.     
 
 [![Video Link](https://img.youtube.com/vi/Z3Tme0WU5D8/0.jpg)](https://www.youtube.com/watch?v=Z3Tme0WU5D8)
+
+---
+
+#### The Social Dilemma - Part 2
+##### ML Street Talk
+On Machine Learning Street Talk, Dr. Tim Scarfe, Dr. Keith Duggar, Alex Stenlake and Yannic Kilcher have a conversation with the Founder and Principal Researcher at the Montreal AI Ethics institute -- Abhishek Gupta. We cover several topics from the Social Dilemma film and AI Ethics in general. 
+
+[![Video Link](https://img.youtube.com/vi/K_Ouj1ng_5w/0.jpg)](https://www.youtube.com/watch?v=K_Ouj1ng_5w)
+
+---
+
+#### Episode 15: Abhishek Gupta, @atg_abhishek
+##### The Tech Humanist Show by Kate O'Neill
+Conversation on the practical challenges in the domain of AI Ethics
+
+[![Video Link](https://img.youtube.com/vi/hgjVSwfWrO0/0.jpg)](https://www.youtube.com/watch?v=hgjVSwfWrO0)
+[Episode Transcript and more information](https://www.thetechhumanist.com/2020/10/30/the-tech-humanist-show-episode-15-abhishek-gupta/)
 
 ---
 
@@ -45,6 +79,14 @@ Featured interview on the ethics of AI, community work and the importance of pub
 
 ---
 
+#### Applied AI ethics: Building ethical, safe, and inclusive AI apps to fight COVID-19
+##### Teens in AI COVID-19 hackathon
+Presentation for the Teens in AI hackathon to guide the participants on applying responsible AI principles to the apps that they were building as a part of the hackathon
+
+[![Video Link](https://img.youtube.com/vi/F7h_LptnqeQ/0.jpg)](https://www.youtube.com/watch?v=F7h_LptnqeQ)
+
+---
+
 #### Featured interview from the AI in Industrial Automation Summit
 ##### REWORK AI in Industrial Automation Summit 
 Overview of my work and how AI can be used to make a positive impact higlighting the importance of interdisciplinary discussions and public competence for getting good governance around AI systems     
@@ -52,3 +94,9 @@ Overview of my work and how AI can be used to make a positive impact higlighting
 [![Video Link](http://view.vzaar.com/16144438/image)](http://videos.re-work.co/videos/1076-interview-with-abhishek-gupta-mcgill-university-and-jeremy-marvel-nist)
 
 ---
+
+#### Artificial Intelligence: The Future of AI, Utopia or Dystopia
+##### WAAAUB Seventh North American Regional Summit  
+In this wide-ranging conversation, the future of a world where AI becomes important was discussed from a variety of viewpoints, with an exploration of both how it might lead to a utopia or a dystopia.
+
+[![Video Link](https://img.youtube.com/vi/9XVFM3ERi7Y/hq1.jpg)](https://www.youtube.com/watch?v=9XVFM3ERi7Y)

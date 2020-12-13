@@ -13,6 +13,63 @@ date: 2017-10-31T22:24:09-05:00
 
 *Featured image courtesy of [REWORK](https://www.flickr.com/photos/teamrework/45611995822/in/album-72157697192717180/)*
 
+---
+
+#### PANELIST
+##### BANFF FORUM 2020 VIRTUAL SPEAKER SERIES: PUBLIC HEALTH DATA, TECHNOLOGY, AND PRIVACY
+Development of AI-enabled technology that is effective while preserving user privacy.
+[Conference Link](https://www.banffforum.ca/virtual-speaker-series)
+
+---
+
+#### Area Chair 
+##### MECHANISM DESIGN FOR SOCIAL GOOD 2020 CONFERENCE
+Problems and Demos Track
+[Conference Link](http://md4sg.com/workshop/MD4SG20/cfp.html)
+
+---
+
+#### INVITED EXPERT
+##### FUTURE OF PRIVACY FORUM - Privacy & Pandemics: Responsible Uses of Technology and Health Data During Times of Crisis — An International Tech and Data Conference 2020
+Session 1: Accessibility of SARS-CoV-2 Data
+[Webinar Link](https://fpf.org/privacy-pandemics-responsible-uses-of-technology-health-data-participant-bios/)
+
+---
+
+#### MODERATOR
+##### MONTREAL AI SYMPOSIUM 2020
+Ethics, Fairness, and Bias in AI
+[YouTube Link](https://youtu.be/fNa--BS1zeQ?t=14698)
+---
+
+#### PANELIST
+##### SPRINGER AI AND ETHICS JOURNAL 2020
+AI, Ethics, and Your Business 
+[Webinar Link](https://register.gotowebinar.com/register/3152786231461959691)
+
+---
+
+#### PANELIST
+##### UNITED NATIONS INSTITUTE FOR DISARMAMENT RESEARCH 2020
+Webinar series on the technological, military and legal aspects of lethal autonomous weapon systems
+[Webinar Link](https://unidir.org/events/webinar-series-technological-military-and-legal-aspects-lethal-autonomous-weapon-systems)
+
+---
+
+#### GUEST LECTURER
+##### CARNEGIE MELLON UNIVERSITY AI AUDIT LAB PITTSBURGH 2020
+Implementing AI ethics in research projects
+*Invited lecture for the CMU AI Audit Lab*
+
+---
+
+#### PANELIST
+##### CHAMBRE COMMÉRCE DE MONTRÉAL 2020: STRATEGIC FORUM ON ARTIFICIAL INTELLIGENCE 
+Ethics and Responsible Development of AI: Necessity or Opportunity
+[Conference Highlights Link](https://www.ccmm.ca/en/blog-ccmm/entrepreneuriat-innovation/a-look-back-at-the-strategic-forum-on-artificial-intelligence/)
+
+---
+
 #### SPEAKER
 ##### NORTH AMERICAN REGIONAL SUMMIT (AMERICAN UNIVERSITY OF BEIRUT) MONTREAL 2018  
 The Future of AI: Utopia or Dystopia?    
