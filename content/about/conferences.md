@@ -15,31 +15,46 @@ date: 2017-10-31T22:24:09-05:00
 
 ---
 
+#### SPEAKER 
+##### 19TH ROK-UN JOINT CONFERENCE ON DISARMAMENT AND NON-PROLIFERATION ISSUES  
+Ethics in the use of AI in War  
+[Presentation Link](https://atg-abhishek.github.io/presentations/ai_ethics_war.html)
+
+---
+
+#### SPEAKER
+##### WOMEN IN AI ETHICS: ASIA-PACIFIC SUMMIT
+AI ethics groups are repeating one of society’s classic mistakes  
+[Conference Link](https://www.eventbrite.com/e/women-in-ai-ethicstm-asia-pacific-summit-tickets-125829843449#)
+
+---
+
 #### PANELIST
 ##### BANFF FORUM 2020 VIRTUAL SPEAKER SERIES: PUBLIC HEALTH DATA, TECHNOLOGY, AND PRIVACY
-Development of AI-enabled technology that is effective while preserving user privacy.
+Development of AI-enabled technology that is effective while preserving user privacy.  
 [Conference Link](https://www.banffforum.ca/virtual-speaker-series)
 
 ---
 
-#### Area Chair 
+#### AREA CHAIR 
 ##### MECHANISM DESIGN FOR SOCIAL GOOD 2020 CONFERENCE
-Problems and Demos Track
+Problems and Demos Track  
 [Conference Link](http://md4sg.com/workshop/MD4SG20/cfp.html)
 
 ---
 
 #### INVITED EXPERT
 ##### FUTURE OF PRIVACY FORUM - Privacy & Pandemics: Responsible Uses of Technology and Health Data During Times of Crisis — An International Tech and Data Conference 2020
-Session 1: Accessibility of SARS-CoV-2 Data
+Session 1: Accessibility of SARS-CoV-2 Data  
 [Webinar Link](https://fpf.org/privacy-pandemics-responsible-uses-of-technology-health-data-participant-bios/)
 
 ---
 
 #### MODERATOR
 ##### MONTREAL AI SYMPOSIUM 2020
-Ethics, Fairness, and Bias in AI
+Ethics, Fairness, and Bias in AI  
 [YouTube Link](https://youtu.be/fNa--BS1zeQ?t=14698)
+
 ---
 
 #### PANELIST
@@ -51,21 +66,36 @@ AI, Ethics, and Your Business
 
 #### PANELIST
 ##### UNITED NATIONS INSTITUTE FOR DISARMAMENT RESEARCH 2020
-Webinar series on the technological, military and legal aspects of lethal autonomous weapon systems
+Webinar series on the technological, military and legal aspects of lethal autonomous weapon systems  
 [Webinar Link](https://unidir.org/events/webinar-series-technological-military-and-legal-aspects-lethal-autonomous-weapon-systems)
 
 ---
 
 #### GUEST LECTURER
 ##### CARNEGIE MELLON UNIVERSITY AI AUDIT LAB PITTSBURGH 2020
-Implementing AI ethics in research projects
+Implementing AI ethics in research projects  
 *Invited lecture for the CMU AI Audit Lab*
+
+---
+
+#### SPEAKER
+##### TEENS IN AI COVID-19 HACKATHON
+Applied AI Ethics: Building ethical, safe, and inclusive AI apps to fight COVID-19  
+[Video Link](https://www.youtube.com/watch?v=F7h_LptnqeQ)  
+[Conference Link](https://www.teensinai.com/hackathons/covid-19-hackathon/)
+
+___
+
+#### INVITED PRESENTER
+##### MD4SG BIAS AND FAIRNESS WORKING GROUP 
+Privacy Legislation Amendments to PIPEDA (Canadian Privacy Law) to accommodate impacts of AI  
+[Working Group Link](http://md4sg.com/workinggroups/fairness.html)
 
 ---
 
 #### PANELIST
 ##### CHAMBRE COMMÉRCE DE MONTRÉAL 2020: STRATEGIC FORUM ON ARTIFICIAL INTELLIGENCE 
-Ethics and Responsible Development of AI: Necessity or Opportunity
+Ethics and Responsible Development of AI: Necessity or Opportunity  
 [Conference Highlights Link](https://www.ccmm.ca/en/blog-ccmm/entrepreneuriat-innovation/a-look-back-at-the-strategic-forum-on-artificial-intelligence/)
 
 ---
@@ -78,9 +108,44 @@ The Future of AI: Utopia or Dystopia?
 ---
 
 #### PANELIST
+##### QUEERTECH + ELEMENTAI + MONTREAL AI ETHICS INSTITUTE
+AI Innovation: Where do we fit in?  
+[Press Mention](https://www.elementai.com/news/2019/powered-by-purpose-our-community-year-in-review)
+
+---
+
+#### PANELIST
+##### MICROSOFT IGNITE THE TOUR, TORONTO 2019
+Discussion on the ethical impacts of AI  
+[Reflections from the conference](https://montrealethics.ai/reflections-from-microsofts-ignite-the-tour/)
+
+---
+
+#### SPEAKER
+##### RE-WORK WEBINAR SERIES 
+Privacy and Security in AI  
+[Webinar Link](https://www.re-work.co/events/webinar-privacy-and-security-in-ai/)
+
+---
+
+#### PANELIST
 ##### TECHSTARS MONTREAL 2018  
 Panel on regulations and legal frameworks on data privacy    
 *Invite only event*
+
+---
+
+#### INVITED SPEAKER
+##### MCGILL FOUNDER'S DAY 2019 
+Overview of AI Ethics   
+[Press Mention](https://publications.mcgill.ca/macdonald/2019/04/08/founders-day-a-celebration-of-all-that-is-mac/)
+
+---
+
+#### SPEAKER
+##### DISTRICT 3 + DESJARDINS LABS AI IN FINANCE TOWN HALL
+Session on understanding the impacts of AI in the field of finance  
+[Session Link](https://twitter.com/D3_innovation/status/1004470245124378624)
 
 ---
 
@@ -89,6 +154,13 @@ Panel on regulations and legal frameworks on data privacy
   
 Should Government regulate AI?  
 [REWORK AI for Government Summit Toronto 2018](https://www.re-work.co/events/ai-for-government-summit-canada-2018/schedule#day_2)
+
+---
+
+#### SPEAKER
+##### ODSC DATA SCIENCE FOR GOOD WEBINAR
+AI Ethics: Current Challenges  
+[Webinar Link](https://aiplus.odsc.com/courses/data-science-for-good-webinar/)
 
 ---
 

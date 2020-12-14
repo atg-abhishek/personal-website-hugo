@@ -17,16 +17,8 @@ date: 2017-10-31T22:21:09-05:00
 
 #### Webinar Series on LAWS: Webinar 1 — Technological Aspects
 ##### United Nations Institute for Disarmament Research 
-This is the first in a three-part Webinar series on the technological, military, and legal aspects of Lethal Autonomous Weapon Systems (LAWS). 
-
-[Video Link](https://www.youtube.com/watch?v=id655evv3yA&feature=emb_logo&ab_channel=UNIDIR)
----
-
-#### AI Ethics and Art
-##### Artificio
-An interactive documentary series about the transformative power of artificial intelligence in the field of arts.
-
-[Video Link](https://artificio.io/)
+This is the first in a three-part Webinar series on the technological, military, and legal aspects of Lethal Autonomous Weapon Systems (LAWS).  
+[![Video Link](https://img.youtube.com/vi/id655evv3yA/0.jpg)](https://www.youtube.com/watch?v=id655evv3yA)
 
 ---
 
@@ -46,7 +38,7 @@ On Machine Learning Street Talk, Dr. Tim Scarfe, Dr. Keith Duggar, Alex Stenlake
 
 ---
 
-#### Episode 15: Abhishek Gupta, @atg_abhishek
+#### Episode 15: Abhishek Gupta, [@atg_abhishek](https://twitter.com/atg_abhishek)
 ##### The Tech Humanist Show by Kate O'Neill
 Conversation on the practical challenges in the domain of AI Ethics
 
@@ -100,3 +92,12 @@ Overview of my work and how AI can be used to make a positive impact higlighting
 In this wide-ranging conversation, the future of a world where AI becomes important was discussed from a variety of viewpoints, with an exploration of both how it might lead to a utopia or a dystopia.
 
 [![Video Link](https://img.youtube.com/vi/9XVFM3ERi7Y/hq1.jpg)](https://www.youtube.com/watch?v=9XVFM3ERi7Y)
+
+---
+
+#### AI Ethics and Art
+##### Artificio
+An interactive documentary series about the transformative power of artificial intelligence in the field of arts.  
+[![Video Link](https://github.com/atg-abhishek/presentations/raw/master/artificio.jpg)](https://artificio.io/artists)
+
+---

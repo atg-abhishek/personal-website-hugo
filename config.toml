@@ -132,6 +132,12 @@ googleAnalytics = "UA-112733950-1"
       subtitle = "Manning Publishers, 2021"
       image = "technical.jpg"
       url = "https://atg-abhishek.github.io/actionable-ai-ethics"
+    
+    [[params.tiles.showcase]]
+      title = "Data Science and Machine Learning Failures"
+      subtitle = "When things go wrong in Data Science and Machine Learning"
+      image = "ds-ml.png"
+      url = "https://failures.substack.com"
 
     [[params.tiles.showcase]]
       title = "MAIEI"
@@ -157,11 +163,11 @@ googleAnalytics = "UA-112733950-1"
       image = "meetup.jpg"
       url = "https://montrealethics.ai/meetup/"
 
-    [[params.tiles.showcase]]
-      title = "Teaching and educational work"
-      subtitle = "Public competence building in AI ethics"
-      image = "education.jpg"
-      url = "https://montrealethics.ai/learning-community"
+    # [[params.tiles.showcase]]
+    #   title = "Teaching and educational work"
+    #   subtitle = "Civic competence building in AI ethics"
+    #   image = "education.jpg"
+    #   url = "https://montrealethics.ai/learning-community"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
@@ -171,10 +177,18 @@ googleAnalytics = "UA-112733950-1"
     # For more informtion take a look at the README.
     # To add more blogs just copy and paste the code.
 
-  # Section Type Two
   [params.two]
     enable = true
-    title = "AI Ethics Newsletter Signup"
+    title = "Actionable AI Ethics Newsletter Signup"
+    subtitle = """
+    Signup to receive updates on the Actionable AI Ethics book.
+    """
+    buttonText = "Sign me up!"
+    url = "https://actionableaiethics.substack.com"
+
+  [params.three]
+    enable = true
+    title = "Montreal AI Ethics Institute Newsletter Signup"
     subtitle = """
     Signup to receive your weekly digest of content from around the world on ai ethics and discussions from our community on creating ethical, safe and inclusive AI systems.
     """
@@ -221,7 +235,7 @@ googleAnalytics = "UA-112733950-1"
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Abhishek Gupta 2020"
+    copyright = "Abhishek Gupta 2021"
 
     # Uses font awesome icons
     [[params.footer.social]]

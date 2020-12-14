@@ -25,55 +25,55 @@ date: 2017-10-31T22:22:09-05:00
 
 #### AI, Machine Learning & Deep Learning Expert Predictions for 2021
 ##### RE-WORK Blog
-December 10 2020
+December 10 2020  
 [Article Link](https://blog.re-work.co/ai-experts-predict-2021-trends-in-machine-learning-deep-learning/)
 
 ---
 
 #### 'There's a chilling effect': Google's firing of leading AI ethicist spurs industry outrage
 ##### Protocol
-December 3 2020
+December 3 2020  
 [Article Link](https://www.protocol.com/amp/timnit-gebru-fired-ethics-google-2649129371?__twitter_impression=true)
 
 ---
 
 #### Ethics Experts Gives 2021 Predictions
 ##### RE-WORK Blog
-December 1 2020
+December 1 2020  
 [Article Link](https://blog.re-work.co/what-can-we-look-forward-to-in-ai-ethics-in-2021/)
 
 ---
 
 #### Ethics, Technology and Innovation with Abhishek Gupta - Season 2 Episode 2
 ##### Centre Stage Podcast from the Project Management Institute
-November 30 2020
+November 30 2020  
 [Podcast Link](https://www.pmi.org/the-project-economy/center-stage-podcast/gupta-transcript-s2e02)
 
 ---
 #### 20+ Pieces Of Advice From AI Experts To Those Starting Out In The Field
 ##### RE-WORK Blog
-October 29 2020
+October 29 2020  
 [Article Link](https://blog.re-work.co/ai-experts-advice-for-those-entering-the-field/)
 
 ---
 
 #### AI Experts Discuss The Possibility of Another AI Winter
 ##### RE-WORK Blog
-October 22 2020
+October 22 2020  
 [Article Link](https://blog.re-work.co/ai-experts-discuss-the-possibility-of-another-ai-winter/)
 
 ---
 
 #### Experts Pick Their Dream AI Panel
 ##### RE-WORK Blog
-October 15 2020
+October 15 2020  
 [Article Link](https://blog.re-work.co/experts-pick-their-dream-ai-panel/)
 
 ---
 
 #### Could machine learning help bring marginalized voices into historical archives?
 ##### VentureBeat
-August 19, 2020
+August 19, 2020  
 [Article Link](https://venturebeat.com/2020/08/19/could-machine-learning-help-bring-marginalized-voices-into-historical-archives/)
 
 ---

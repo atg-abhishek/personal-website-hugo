@@ -23,77 +23,212 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### Montreal AI Ethics Institute's Response to Scotland's AI Strategy
+##### Submitted to the Scottish National Government
+Compilation of organizational and policy recommendations in response to Scotland's National AI Strategy  
+[Report Link](https://arxiv.org/abs/2006.06300)
+
+---
+
+#### Response to the AHRC and WEF regarding Responsible Innovation in AI
+##### Australian Human Rights Commission
+Joint work to recommend organizational changes to spark responsible innovation in the use of AI    
+[Report Link](https://tech.humanrights.gov.au/sites/default/files/inline-files/48%20-%20Montreal%20AI%20Ethics%20Institute.pdf)
+
+---
+
+#### Canada Protocol: an ethical checklist for the use of Artificial Intelligence in Suicide Prevention and Mental Health
+##### National Library of Medicine
+Joint work to provide a concrete checklist format and items for the ethical use of AI in mental health applications  
+[Paper Link](https://pubmed.ncbi.nlm.nih.gov/32972663/)
+
+---
+
+#### Response to Office of the Privacy Commissioner of Canada Consultation Proposals pertaining to amendments to PIPEDA relative to Artificial Intelligence
+##### Submitted to the Office of the Privacy Commissioner of Canada
+A blend of legal and technical recommendations provided to the Office of the Privacy Commissioner of Canada in their amendments to the Canadian Privacy Law relative to AI  
+[Report Link](https://arxiv.org/abs/2006.07025)
+
+---
+
+#### The Social Contract for AI
+##### Presented at the  IJCAI 2019 AI for Social Good workshop
+Exploration of the notion of the social contract in relation to AI systems  
+[Paper Link](https://arxiv.org/abs/2006.08140)
+
+---
+
+#### Response by the Montreal AI Ethics Institute to the European Commission's Whitepaper on AI
+##### Submitted to the European Commission 
+Joint work with colleagues at the Montreal AI Ethics Institute to provide recommendations to the European Commission on their Trustworthy AI whitepaper  
+[Report Link](https://arxiv.org/abs/2006.09428)
+
+---
+
+#### Response by the Montreal AI Ethics Institute to the Santa Clara Principles on Transparency and Accountability in Online Content Moderation
+##### Submitted to the Santa Clara Principles for revision on Online Content Moderation approaches
+Joint work with colleagues at the Montreal AI Ethics Institute to provide recommendations to improve the existing Santa Clara Principles on online content moderation.  
+[Report Link](https://arxiv.org/abs/2007.00700)
+
+---
+
+#### Montreal AI Ethics Institute's (MAIEI) Submission to the World Intellectual Property Organization (WIPO) Conversation on Intellectual Property (IP) and Artificial Intelligence
+##### Submitted to the World Intellectual Property Organization 
+Joint work to analyze the impacts that AI will have on IP policy  
+[Report Link](https://www.wipo.int/export/sites/www/about-ip/en/artificial_intelligence/conversation_ip_ai/pdf/ngo_maiei.pdf)
+
+---
+
+#### Report prepared by the Montreal AI Ethics Institute In Response to Mila's Proposal for a Contact Tracing App
+##### Montreal AI Ethics Institute 
+Joint work to analyze the deficiencies and public risks in the contact-tracing solution from Mila and recommendations for improvements.  
+[Report Link](https://arxiv.org/abs/2008.04530)
+
+---
+
+#### State of AI Ethics Report October 2020 
+##### Montreal AI Ethics Institute 
+Joint work with colleagues from the Montreal AI Ethics Institute that capture the state of the field of AI ethics covering both research and reporting in the domain.  
+[Report Link](https://montrealethics.ai/oct2020)
+
+---
+
+#### Report prepared by the Montreal AI Ethics Institute (MAIEI) for Publication Norms for Responsible AI by Partnership on AI
+##### Submitted to the Partnership on AI
+Work done with the team at the Montreal AI Ethics Institute in response to the publication norms work done by the Partnership on AI to help improve their process.  
+[Report Link](https://arxiv.org/abs/2009.07262)
+
+
+---
+
+#### Participatory Design for building better contact- and proximity-tracing apps
+##### arXiv preprint
+Work done in response to opaque development practice of contact- and promxity apps developed in Canada and their subsequent low rates of adoption  
+[Paper link](https://arxiv.org/abs/2006.00432)
+
+---
+
+#### State of AI Ethics Report June 2020
+##### Montreal AI Ethics Institute
+Joint work with colleagues from the Montreal AI Ethics Institute that capture the state of the field of AI ethics covering both research and reporting in the domain.  
+[Report Link](https://montrealethics.ai/wp-content/uploads/2020/06/State-of-AI-Ethics-June-2020-report.pdf)
+
+---
+
 #### Decoded Reality
 ##### NeurIPS 2020 Resistance AI Workshop
-Art work accepted for poster presentation at the workshop
-[Abstract Link](https://sites.google.com/view/resistance-ai-neurips-20/accepted-papers-and-media?authuser=0)
+Decoded Reality is a creative exploration of the Power dynamics that shape the Design, Development, and Deployment of Machine Learning and Data-driven Systems.
+
+Art work accepted for poster presentation at the workshop  
+[Abstract Link](https://sites.google.com/view/resistance-ai-neurips-20/accepted-papers-and-media?authuser=0)  
 [Artwork Link](https://ai-ethics.github.io/decoded-reality/intro.html)
 
 ---
 
 #### SECure: A Social and Environmental Certificate for AI Systems
 ##### ICML 2020: Deploy and Monitor ML Workshop
-Paper accepted for poster presentation at the workshop
-[Abstract Link](https://sites.google.com/view/deploymonitormlsystems/open-problems?authuser=0#h.rlavhwvx9f1w)
+Paper accepted for poster presentation at the workshop  
+[Abstract Link](https://sites.google.com/view/deploymonitormlsystems/open-problems?authuser=0#h.rlavhwvx9f1w)  
 [Paper Link](https://arxiv.org/abs/2006.06217)
+
+---
+
+#### Trust me!: How to use trust-by-design to build resilient tech in times of crisis
+##### 38 No. 04 Westlaw Journal Computer & Internet 02
+Paper accepted for publication in the journal  
+[Article Link](https://content.next.westlaw.com/Document/I83ead3cccb1811eabea4f0dc9fb69570/View/FullText.html?contextData=(sc.Default)&transitionType=Default&firstPage=true)
+
+---
+
+#### Comprehensiveness of Archives: A Modern AI-enabled Approach to Build Comprehensive Shared Cultural Heritage
+##### Messy Ethnography ECSCW 2020 Conference
+Accepted for presentation at the conference  
+[Conference Link](http://messy-ethnography.org/)
 
 ---
 
 #### Green Lighting ML: Confidentiality, Integrity, and Availability of Machine Learning Systems in Deployment 
 ##### ICML 2020: Deploy and Monitor ML Workshop
-Paper accepted for poster presentation at the workshop 
-[Abstract Link](https://sites.google.com/view/deploymonitormlsystems/open-problems?authuser=0#h.xastap6163vw)
+Paper accepted for poster presentation at the workshop   
+[Abstract Link](https://sites.google.com/view/deploymonitormlsystems/open-problems?authuser=0#h.xastap6163vw)  
 [Paper Link](https://arxiv.org/abs/2007.04693)
+
+---
+
+#### Comprehensiveness of Archives: A Modern AI-enabled Approach to Build Comprehensive Shared Cultural Heritage
+##### Datafication + Cultural Heritage ECSCW 2020
+Paper accepted for presentation at the conference  
+[Conference Link](https://dataficationandculturalheritage.blogs.dsv.su.se/program/)
+
+---
+
+#### SECure: A Social and Environmental Certificate for AI Systems
+##### 4th Workshop on Mechanism Design for Social Good 
+Accepted for poster presentation at the workshop  
+[Conference Link](http://md4sg.com/workshop/MD4SG20/posters.html)
 
 ---
 
 #### Adversarial ML Threat Matrix
 ##### Microsoft Security | MITRE
-Contributor to the threat matrix
-[Article Link](https://www.microsoft.com/security/blog/2020/10/22/cyberattacks-against-machine-learning-systems-are-more-common-than-you-think/)
+Contributor to the threat matrix  
+[Article Link](https://www.microsoft.com/security/blog/2020/10/22/cyberattacks-against-machine-learning-systems-are-more-common-than-you-think/)  
 [GitHub Link](https://github.com/mitre/advmlthreatmatrix)
+
+---
+
+#### SECure: A Social and Environmental Certificate for AI Systems
+##### Global Challenges in Economics and Computing 2020
+Accepted for presentation at the workshop  
+[Conference Link](https://www.gcec.org/)
 
 ---
 
 #### Green Lighting ML: Confidentiality, Integrity, and Availability of Machine Learning Systems in Deployment
 ##### Montreal AI Symposium 2020 
-Paper accepted for poster presentation at the conference
-[Poster Link](https://drive.google.com/file/d/1_SN1FLpLcRTLGeSnyFzWxlKcEXcXGexR/view?usp=drivesdk)
+Paper accepted for poster presentation at the conference  
+[Poster Link](https://drive.google.com/file/d/1_SN1FLpLcRTLGeSnyFzWxlKcEXcXGexR/view?usp=drivesdk)  
 [Video Link](https://www.youtube.com/watch?v=cQ4Qen14-sg)
+
+---
+
+#### SECure: A Social and Environmental Certificate for AI Systems
+##### Tracing the Veins: Extraction 
+Accepted for presentation at the KNOWLEDGE PRODUCTION AND DATA EXTRACTION STREAM  
+[Conference Link](https://perc.ac.nz/wordpress/knowledge-production-and-data-extraction-stream/)
 
 ---
 
 #### The Gray Rhino of Pandemic Preparedness: Proactive digital, data, and organizational infrastructure to help humanity build resilience in the face of pandemics
 ##### Future of Privacy Forum 2020 - Privacy & Pandemics: Responsible Uses of Technology & Health Data
-Position paper accepted for presentation at the conference
+Position paper accepted for presentation at the conference  
 [Paper Link](https://fpf.org/wp-content/uploads/2020/10/5-The-Gray-Rhino-of-Pandemic-Preparedness-pages-Main-Article.pdf)
 
 ---
 
 #### THE CO-DESIGNED POST-PANDEMIC UNIVERSITY: A PARTICIPATORY AND CONTINUAL LEARNING APPROACH FOR THE FUTURE OF WORK
 ##### Post Pandemic University 2020 Conference
-Position paper accepted for presentation at the conference
+Position paper accepted for presentation at the conference  
 [Paper link](https://postpandemicuniversity.net/2020/09/06/the-co-designed-post-pandemic-university-a-participatory-and-continual-learning-approach-for-the-future-of-work/)
 
 ---
-
-#### Decoded Reality
-##### Resistance AI - NeurIPS 2020 Workshop
-Decoded Reality is a creative exploration of the Power dynamics that shape the Design, Development, and Deployment of Machine Learning and Data-driven Systems.
-[Art link](https://ai-ethics.github.io/decoded-reality/intro.html)
+#### AI ethics groups are repeating one of society’s classic mistakes
+##### MIT Technology Review
+Op-ed  
+[Article Link](https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/)
 
 ---
 
-#### AI ethics groups are repeating one of society’s classic mistakes
-##### MIT Technology Review
-Op-ed
-[Article Link](https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/)
+#### SECure: A Social and Environmental Certificate for AI Systems 
+##### Canadian Society for Ecological Economics 2020
+Accepted for presentation at the conference  
+[Conference Link](http://www.cansee.ca/cansee2020-student-symposium/)
 
 ---
 
 #### Inclusively Designed Artificial Intelligence
 ##### River Publishers
-Book chapter in Digital Innovation and the Future of Work
+Book chapter in Digital Innovation and the Future of Work  
 _Link forthcoming soon_
 
 ---

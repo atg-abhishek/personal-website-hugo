@@ -28,8 +28,7 @@
       
       <guid>https://atg-abhishek.github.io/about/currentwork/</guid>
       <description>Featured picture courtesy of the McGill Physics Hackathon
-Primary areas of research focus:  Participatory design approaches to machine learning - designing asynchronous collaborative approaches leveraging participatory design methodology mediated through bot interfaces to build more inclusive AI systems.
- Privacy – bridging the gap between the legal and technical domains to advise on privacy legislation amendments and assessing privacy implications of new technological solutions like contact- and proximity-tracing applications.</description>
+Primary areas of research focus:  ML Retrospectives - a novel approach to making machine learning research transparent and accessible to colleagues in the scientific community. An emphasis on being retrospective about prior work and being comfortable with mistakes, transforming them into stepping stones for further scientific endeavours. For more information, please take a look here. This idea has been hosted as workshops at NeurIPS 2019, ICML 2020, and will be hosted at NeurIPS 2020.</description>
     </item>
     
     <item>
@@ -40,12 +39,8 @@ Primary areas of research focus:  Participatory design approaches to machine lea
       <guid>https://atg-abhishek.github.io/about/publications/</guid>
       <description>Featured image courtesy of the Brookfield IIE
 As seen in All copyrights and trademarks belong to the owners of the images
-AI ethics groups are repeating one of society’s classic mistakes MIT Technology Review Op-ed Article Link
-Privacy and Security in AI REWORK White Paper Series
-Paper Link
-AI Ethics: Inclusivity in Smart Cities Montreal AI Ethics Institute Presented at WEF 4IR 2018 Summit
-Article Link
-Artificial Intelligence as a Force For Good Stanford Social Innovation Review Technology Section</description>
+Decoded Reality NeurIPS 2020 Resistance AI Workshop Art work accepted for poster presentation at the workshop Abstract Link Artwork Link
+SECure: A Social and Environmental Certificate for AI Systems ICML 2020: Deploy and Monitor ML Workshop Paper accepted for poster presentation at the workshop Abstract Link Paper Link</description>
     </item>
     
     <item>
@@ -55,13 +50,9 @@ Artificial Intelligence as a Force For Good Stanford Social Innovation Review Te
       
       <guid>https://atg-abhishek.github.io/about/conferences/</guid>
       <description>Featured image courtesy of REWORK
-SPEAKER NORTH AMERICAN REGIONAL SUMMIT (AMERICAN UNIVERSITY OF BEIRUT) MONTREAL 2018 The Future of AI: Utopia or Dystopia?
-NARS AUB Summit Montreal 2018
-PANELIST TECHSTARS MONTREAL 2018 Panel on regulations and legal frameworks on data privacy
-Invite only event
-PANELIST REWORK AI FOR GOVERNMENT SUMMIT TORONTO 2018 Should Government regulate AI?
-REWORK AI for Government Summit Toronto 2018
-PANELIST REWORK AI FOR GOVERNMENT SUMMIT TORONTO 2018 AI for Law Enforcement and Fraud</description>
+PANELIST BANFF FORUM 2020 VIRTUAL SPEAKER SERIES: PUBLIC HEALTH DATA, TECHNOLOGY, AND PRIVACY Development of AI-enabled technology that is effective while preserving user privacy. Conference Link
+Area Chair MECHANISM DESIGN FOR SOCIAL GOOD 2020 CONFERENCE Problems and Demos Track Conference Link
+INVITED EXPERT FUTURE OF PRIVACY FORUM - Privacy &amp;amp; Pandemics: Responsible Uses of Technology and Health Data During Times of Crisis — An International Tech and Data Conference 2020 Session 1: Accessibility of SARS-CoV-2 Data Webinar Link</description>
     </item>
     
     <item>
@@ -72,10 +63,9 @@ PANELIST REWORK AI FOR GOVERNMENT SUMMIT TORONTO 2018 AI for Law Enforcement and
       <guid>https://atg-abhishek.github.io/about/mediacoverage/</guid>
       <description>Featured image courtesy of AI for Good Global Summit
 As seen in All copyrights and trademarks belong to the owners of the images
-Could machine learning help bring marginalized voices into historical archives? VentureBeat August 19, 2020 Article Link
-Researchers propose framework to measure AI’s social and environmental impact VentureBeat June 12, 2020
-Article Link
-A.I. engineers should spend time training not just algorithms, but also the humans who use them Fortune May 5, 2020</description>
+AI, Machine Learning &amp;amp; Deep Learning Expert Predictions for 2021 RE-WORK Blog December 10 2020 Article Link
+&amp;lsquo;There&amp;rsquo;s a chilling effect&amp;rsquo;: Google&amp;rsquo;s firing of leading AI ethicist spurs industry outrage Protocol December 3 2020 Article Link
+Ethics Experts Gives 2021 Predictions RE-WORK Blog December 1 2020 Article Link</description>
     </item>
     
     <item>
@@ -85,9 +75,8 @@ A.I. engineers should spend time training not just algorithms, but also the huma
       
       <guid>https://atg-abhishek.github.io/about/videos/</guid>
       <description>Screenshot from the BorealisAI Northern Frontier Series featured interview on AI ethics
-Interview with BorealisAI BorealisAI Interview with BorealisAI that took a dive into the threat automation poses to job loss based on the current science, whether bias is the biggest problem we face in responsible AI, and what we should consider reasonable trade-offs for improving fairness.
-
-Framework for the ethical development of AI Montreal AI Symposium Presentation at the Montreal AI Symposium on a framework for ethical development of AI systems</description>
+Webinar Series on LAWS: Webinar 1 — Technological Aspects United Nations Institute for Disarmament Research This is the first in a three-part Webinar series on the technological, military, and legal aspects of Lethal Autonomous Weapon Systems (LAWS).
+Video Link AI Ethics and Art Artificio An interactive documentary series about the transformative power of artificial intelligence in the field of arts.</description>
     </item>
     
   </channel>
