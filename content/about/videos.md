@@ -15,6 +15,13 @@ date: 2017-10-31T22:21:09-05:00
 
 ---
 
+#### AI, Ethics, & Your Business Webinar
+##### Springer Nature AI & Ethics Journal
+In this webinar, panelists discuss how stakeholders can be more ethical in their decision-making using AI. Topics covered include risk management, regulations, implementation of ethical AI and the barriers of putting it into practice, AI in Fintech and a discussion of how the cost of "getting it wrong" outweighs the challenges of application.
+[![Video Link](https://github.com/atg-abhishek/presentations/raw/master/springer_panel_2020.png)](https://www.springernature.com/gp/librarians/the-link/blog/blogposts-news-initiatives/ai-ethics-your-business/18684132)
+
+---
+
 #### Webinar Series on LAWS: Webinar 1 — Technological Aspects
 ##### United Nations Institute for Disarmament Research 
 This is the first in a three-part Webinar series on the technological, military, and legal aspects of Lethal Autonomous Weapon Systems (LAWS).  

@@ -23,6 +23,13 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### AI, Ethics, and Your Business
+##### Springer Nature AI & Ethics Journal Blog
+A discussion on the business considerations and importance of AI Ethics; summarized thoughts from the Springer Nature AI & Ethics Journal Panel
+[Article Link](https://www.springernature.com/gp/librarians/landing/aiandethics)
+
+---
+
 #### Montreal AI Ethics Institute's Response to Scotland's AI Strategy
 ##### Submitted to the Scottish National Government
 Compilation of organizational and policy recommendations in response to Scotland's National AI Strategy  
