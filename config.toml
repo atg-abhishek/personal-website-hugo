@@ -188,7 +188,7 @@ googleAnalytics = "UA-112733950-1"
 
   [params.three]
     enable = true
-    title = "Data Science and Machine Learning Failures"
+    title = "Data Science and Machine Learning Failures Newsletter Signup"
     subtitle = """
     Signup to receive updates on what happens when data science and machine learning goes wrong.
     """
