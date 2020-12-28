@@ -25,14 +25,14 @@ date: 2017-10-31T22:25:09-05:00
 
 #### AI Governance in 2020
 ##### Shanghai Institute for Science of Science 
-Invited piece talking about the need for interdisciplinary expertise in deploying governance solutions for AI.
+Invited piece talking about the need for interdisciplinary expertise in deploying governance solutions for AI.  
 [Report Link](https://www.aigovernancereview.com/)
 
 ---
 
 #### AI, Ethics, and Your Business
 ##### Springer Nature AI & Ethics Journal Blog
-A discussion on the business considerations and importance of AI Ethics; summarized thoughts from the Springer Nature AI & Ethics Journal Panel
+A discussion on the business considerations and importance of AI Ethics; summarized thoughts from the Springer Nature AI & Ethics Journal Panel  
 [Article Link](https://www.springernature.com/gp/librarians/landing/aiandethics)
 
 ---
