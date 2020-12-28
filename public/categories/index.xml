@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abhishek Gupta | AI Ethics Researcher | Machine Learning Engineer</title>
+    <title>Categories on Abhishek Gupta | AI Ethics Researcher | Machine Learning Engineer</title>
     <link>https://atg-abhishek.github.io/categories/</link>
-    <description>Recent content on Abhishek Gupta | AI Ethics Researcher | Machine Learning Engineer</description>
+    <description>Recent content in Categories on Abhishek Gupta | AI Ethics Researcher | Machine Learning Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 23:12:09 -0500</lastBuildDate>
@@ -12,147 +12,12 @@
     
     
     <item>
-      <title>Overview of my work</title>
-      <link>https://atg-abhishek.github.io/about/workdetails/</link>
+      <title></title>
+      <link>https://atg-abhishek.github.io/categories/</link>
       <pubDate>Tue, 31 Oct 2017 23:12:09 -0500</pubDate>
       
-      <guid>https://atg-abhishek.github.io/about/workdetails/</guid>
-      <description>Current affiliations  Founder, Montreal AI Ethics Institute and a principal investigator for several projects happening at the Montreal AI Ethics Institute.
- Machine Learning Engineer, Microsoft on the Commercial Software Engineering (CSE) team at Microsoft where I work on machine learning projects involving both Azure ML services and open-source implementations. The hallmarks of the CSE team are that we operate in a “code-with” model with our customers. The team is deeply technical and highly specialized in solving the toughest technical challenges faced by Microsoft’s customers and the team follows an open-sourcing model to contribute the code and insights to the community from our engagements.</description>
-    </item>
-    
-    <item>
-      <title>Overview of my work</title>
-      <link>https://atg-abhishek.github.io/about/workdetails/</link>
-      <pubDate>Tue, 31 Oct 2017 23:12:09 -0500</pubDate>
-      
-      <guid>https://atg-abhishek.github.io/about/workdetails/</guid>
-      <description>Current affiliations  Founder, Montreal AI Ethics Institute and a principal investigator for several projects happening at the Montreal AI Ethics Institute.
- Machine Learning Engineer, Microsoft on the Commercial Software Engineering (CSE) team at Microsoft where I work on machine learning projects involving both Azure ML services and open-source implementations. The hallmarks of the CSE team are that we operate in a “code-with” model with our customers. The team is deeply technical and highly specialized in solving the toughest technical challenges faced by Microsoft’s customers and the team follows an open-sourcing model to contribute the code and insights to the community from our engagements.</description>
-    </item>
-    
-    <item>
-      <title>Current Work</title>
-      <link>https://atg-abhishek.github.io/about/currentwork/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
-      
-      <guid>https://atg-abhishek.github.io/about/currentwork/</guid>
-      <description>Featured picture courtesy of the McGill Physics Hackathon
-Primary areas of research focus:  ML Retrospectives - a novel approach to making machine learning research transparent and accessible to colleagues in the scientific community. An emphasis on being retrospective about prior work and being comfortable with mistakes, transforming them into stepping stones for further scientific endeavours. For more information, please take a look here. This idea has been hosted as workshops at NeurIPS 2019, ICML 2020, and will be hosted at NeurIPS 2020.</description>
-    </item>
-    
-    <item>
-      <title>Current Work</title>
-      <link>https://atg-abhishek.github.io/about/currentwork/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
-      
-      <guid>https://atg-abhishek.github.io/about/currentwork/</guid>
-      <description>Featured picture courtesy of the McGill Physics Hackathon
-Primary areas of research focus:  ML Retrospectives - a novel approach to making machine learning research transparent and accessible to colleagues in the scientific community. An emphasis on being retrospective about prior work and being comfortable with mistakes, transforming them into stepping stones for further scientific endeavours. For more information, please take a look here. This idea has been hosted as workshops at NeurIPS 2019, ICML 2020, and will be hosted at NeurIPS 2020.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://atg-abhishek.github.io/about/publications/</link>
-      <pubDate>Tue, 31 Oct 2017 22:25:09 -0500</pubDate>
-      
-      <guid>https://atg-abhishek.github.io/about/publications/</guid>
-      <description>Featured image courtesy of the Brookfield IIE
-As seen in All copyrights and trademarks belong to the owners of the images
-AI Governance in 2020 Shanghai Institute for Science of Science Invited piece talking about the need for interdisciplinary expertise in deploying governance solutions for AI. Report Link
-AI, Ethics, and Your Business Springer Nature AI &amp;amp; Ethics Journal Blog A discussion on the business considerations and importance of AI Ethics; summarized thoughts from the Springer Nature AI &amp;amp; Ethics Journal Panel Article Link</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://atg-abhishek.github.io/about/publications/</link>
-      <pubDate>Tue, 31 Oct 2017 22:25:09 -0500</pubDate>
-      
-      <guid>https://atg-abhishek.github.io/about/publications/</guid>
-      <description>Featured image courtesy of the Brookfield IIE
-As seen in All copyrights and trademarks belong to the owners of the images
-AI Governance in 2020 Shanghai Institute for Science of Science Invited piece talking about the need for interdisciplinary expertise in deploying governance solutions for AI. Report Link
-AI, Ethics, and Your Business Springer Nature AI &amp;amp; Ethics Journal Blog A discussion on the business considerations and importance of AI Ethics; summarized thoughts from the Springer Nature AI &amp;amp; Ethics Journal Panel Article Link</description>
-    </item>
-    
-    <item>
-      <title>Talks</title>
-      <link>https://atg-abhishek.github.io/about/conferences/</link>
-      <pubDate>Tue, 31 Oct 2017 22:24:09 -0500</pubDate>
-      
-      <guid>https://atg-abhishek.github.io/about/conferences/</guid>
-      <description>Featured image courtesy of REWORK
-SPEAKER 19TH ROK-UN JOINT CONFERENCE ON DISARMAMENT AND NON-PROLIFERATION ISSUES Ethics in the use of AI in War
-Presentation Link
-SPEAKER WOMEN IN AI ETHICS: ASIA-PACIFIC SUMMIT AI ethics groups are repeating one of society’s classic mistakes
-Conference Link
-PANELIST BANFF FORUM 2020 VIRTUAL SPEAKER SERIES: PUBLIC HEALTH DATA, TECHNOLOGY, AND PRIVACY Development of AI-enabled technology that is effective while preserving user privacy.
-Conference Link</description>
-    </item>
-    
-    <item>
-      <title>Talks</title>
-      <link>https://atg-abhishek.github.io/about/conferences/</link>
-      <pubDate>Tue, 31 Oct 2017 22:24:09 -0500</pubDate>
-      
-      <guid>https://atg-abhishek.github.io/about/conferences/</guid>
-      <description>Featured image courtesy of REWORK
-SPEAKER 19TH ROK-UN JOINT CONFERENCE ON DISARMAMENT AND NON-PROLIFERATION ISSUES Ethics in the use of AI in War
-Presentation Link
-SPEAKER WOMEN IN AI ETHICS: ASIA-PACIFIC SUMMIT AI ethics groups are repeating one of society’s classic mistakes
-Conference Link
-PANELIST BANFF FORUM 2020 VIRTUAL SPEAKER SERIES: PUBLIC HEALTH DATA, TECHNOLOGY, AND PRIVACY Development of AI-enabled technology that is effective while preserving user privacy.
-Conference Link</description>
-    </item>
-    
-    <item>
-      <title>Media Coverage</title>
-      <link>https://atg-abhishek.github.io/about/mediacoverage/</link>
-      <pubDate>Tue, 31 Oct 2017 22:22:09 -0500</pubDate>
-      
-      <guid>https://atg-abhishek.github.io/about/mediacoverage/</guid>
-      <description>Featured image courtesy of AI for Good Global Summit
-As seen in All copyrights and trademarks belong to the owners of the images
-AI, Machine Learning &amp;amp; Deep Learning Expert Predictions for 2021 RE-WORK Blog December 10 2020
-Article Link
-&amp;lsquo;There&amp;rsquo;s a chilling effect&amp;rsquo;: Google&amp;rsquo;s firing of leading AI ethicist spurs industry outrage Protocol December 3 2020
-Article Link
-Ethics Experts Gives 2021 Predictions RE-WORK Blog December 1 2020</description>
-    </item>
-    
-    <item>
-      <title>Media Coverage</title>
-      <link>https://atg-abhishek.github.io/about/mediacoverage/</link>
-      <pubDate>Tue, 31 Oct 2017 22:22:09 -0500</pubDate>
-      
-      <guid>https://atg-abhishek.github.io/about/mediacoverage/</guid>
-      <description>Featured image courtesy of AI for Good Global Summit
-As seen in All copyrights and trademarks belong to the owners of the images
-AI, Machine Learning &amp;amp; Deep Learning Expert Predictions for 2021 RE-WORK Blog December 10 2020
-Article Link
-&amp;lsquo;There&amp;rsquo;s a chilling effect&amp;rsquo;: Google&amp;rsquo;s firing of leading AI ethicist spurs industry outrage Protocol December 3 2020
-Article Link
-Ethics Experts Gives 2021 Predictions RE-WORK Blog December 1 2020</description>
-    </item>
-    
-    <item>
-      <title>Videos</title>
-      <link>https://atg-abhishek.github.io/about/videos/</link>
-      <pubDate>Tue, 31 Oct 2017 22:21:09 -0500</pubDate>
-      
-      <guid>https://atg-abhishek.github.io/about/videos/</guid>
-      <description>Screenshot from the BorealisAI Northern Frontier Series featured interview on AI ethics
-AI, Ethics, &amp;amp; Your Business Webinar Springer Nature AI &amp;amp; Ethics Journal In this webinar, panelists discuss how stakeholders can be more ethical in their decision-making using AI. Topics covered include risk management, regulations, implementation of ethical AI and the barriers of putting it into practice, AI in Fintech and a discussion of how the cost of &amp;ldquo;getting it wrong&amp;rdquo; outweighs the challenges of application.</description>
-    </item>
-    
-    <item>
-      <title>Videos</title>
-      <link>https://atg-abhishek.github.io/about/videos/</link>
-      <pubDate>Tue, 31 Oct 2017 22:21:09 -0500</pubDate>
-      
-      <guid>https://atg-abhishek.github.io/about/videos/</guid>
-      <description>Screenshot from the BorealisAI Northern Frontier Series featured interview on AI ethics
-AI, Ethics, &amp;amp; Your Business Webinar Springer Nature AI &amp;amp; Ethics Journal In this webinar, panelists discuss how stakeholders can be more ethical in their decision-making using AI. Topics covered include risk management, regulations, implementation of ethical AI and the barriers of putting it into practice, AI in Fintech and a discussion of how the cost of &amp;ldquo;getting it wrong&amp;rdquo; outweighs the challenges of application.</description>
+      <guid>https://atg-abhishek.github.io/categories/</guid>
+      <description></description>
     </item>
     
   </channel>
