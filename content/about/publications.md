@@ -23,6 +23,13 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### Why civic competence in AI ethics is needed in 2021
+##### Towards Data Science
+Outlining how civic competence is one of the more effective instruments in the addressing of ethics, safety, and inclusivity concerns in AI
+[Article Link](https://towardsdatascience.com/why-civic-competence-in-ai-ethics-is-needed-in-2021-697ca4bed688)
+
+---
+
 #### What can we look forward to in AI Ethics in 2021?
 ##### RE-WORK Blog
 An outlook for things to expect in the domain of AI ethics in 2021

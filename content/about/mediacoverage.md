@@ -30,6 +30,13 @@ date: 2017-10-31T22:22:09-05:00
 
 ---
 
+#### 'At discussions on AI ethics, you'd be hard-pressed to find anyone with a background in anthropology or sociology'
+##### Times of India 
+January 14, 2021
+[Article Link](https://timesofindia.indiatimes.com/blogs/the-interviews-blog/at-discussions-on-ai-ethics-youd-be-hard-pressed-to-find-anyone-with-a-background-in-anthropology-or-sociology/)
+
+---
+
 #### AI, Machine Learning & Deep Learning Expert Predictions for 2021
 ##### RE-WORK Blog
 December 10 2020  
