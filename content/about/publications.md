@@ -23,6 +23,13 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### What can we look forward to in AI Ethics in 2021?
+##### RE-WORK Blog
+An outlook for things to expect in the domain of AI ethics in 2021
+[Article Link](https://blog.re-work.co/what-can-we-look-forward-to-in-ai-ethics-in-2021/)
+
+---
+
 #### AI Governance in 2020
 ##### Shanghai Institute for Science of Science 
 Invited piece talking about the need for interdisciplinary expertise in deploying governance solutions for AI.  
