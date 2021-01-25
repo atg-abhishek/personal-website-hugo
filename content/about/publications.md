@@ -23,6 +23,20 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### To achieve Responsible AI, close the "believability" gap
+##### Towards Data Science
+Making discussions in AI more inclusive and effective, we need to move beyond just looking at haughty credentials and focus on lived experiences, multidisciplinary background, and pay attention to the body of work. 
+[Article Link](https://towardsdatascience.com/to-achieve-responsible-ai-close-the-believability-gap-cf809dc81c1e)
+
+---
+
+#### Prudent Public Sector Procurement of AI Products
+##### Towards Data Science
+Tips on enhancing the procurement process for AI products to improve Responsible AI outcomes in practice in the use of AI systems in the public sector
+[Article Link](https://towardsdatascience.com/prudent-public-sector-procurement-of-ai-products-779316d513a8)
+
+---
+
 #### Why civic competence in AI ethics is needed in 2021
 ##### Towards Data Science
 Outlining how civic competence is one of the more effective instruments in the addressing of ethics, safety, and inclusivity concerns in AI
