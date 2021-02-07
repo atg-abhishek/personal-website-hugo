@@ -30,6 +30,20 @@ date: 2017-10-31T22:22:09-05:00
 
 ---
 
+#### How a quest to build ethical AI detonated a battle inside Google
+##### Business Insider
+February 3 2021
+[Article Link](https://www.businessinsider.com/sundar-pichai-to-build-ethical-ai-detonated-battle-inside-google-2021-2)
+
+---
+
+#### Why companies are thinking twice about using artificial intelligence
+##### Fortune
+January 31 2021
+[Article Link](https://fortune.com/2021/01/31/ai-ethics-why-companies-are-thinking-twice-artificial-intelligence/)
+
+---
+
 #### 'At discussions on AI ethics, you'd be hard-pressed to find anyone with a background in anthropology or sociology'
 ##### Times of India 
 January 14, 2021
