@@ -23,6 +23,13 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### Small steps to *actually* achieving Responsible AI
+##### Towards Data Science 
+A list of actionable steps that one can take to move towards practicing Responsible AI rather than just talking about it.
+[Article Link](https://towardsdatascience.com/small-steps-to-actually-achieving-responsible-ai-69f998f9eefb)
+
+---
+
 #### To achieve Responsible AI, close the "believability" gap
 ##### Towards Data Science
 Making discussions in AI more inclusive and effective, we need to move beyond just looking at haughty credentials and focus on lived experiences, multidisciplinary background, and pay attention to the body of work. 
