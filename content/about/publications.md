@@ -23,37 +23,51 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### AI for AI - Developing Artificial Intelligence for an Atmanirbhar India 
+##### Vidhi Center for Legal Policy 
+India needs more indigenous research on ethical & governance frameworks for application of AI.  
+[Article Link](https://vidhilegalpolicy.in/blog/ai-for-ai-developing-artificial-intelligence-for-an-atmanirbhar-india/)
+
+---
+
+#### Introduction to ethics in the use of AI in war  
+##### Towards Data Science 
+A quick tour through the ethical and governance issues  
+[Article Link](https://towardsdatascience.com/introduction-to-ethics-in-the-use-of-ai-in-war-9e9bf8ba71ba)
+
+---
+
 #### Small steps to *actually* achieving Responsible AI
 ##### Towards Data Science 
-A list of actionable steps that one can take to move towards practicing Responsible AI rather than just talking about it.
+A list of actionable steps that one can take to move towards practicing Responsible AI rather than just talking about it.  
 [Article Link](https://towardsdatascience.com/small-steps-to-actually-achieving-responsible-ai-69f998f9eefb)
 
 ---
 
 #### To achieve Responsible AI, close the "believability" gap
 ##### Towards Data Science
-Making discussions in AI more inclusive and effective, we need to move beyond just looking at haughty credentials and focus on lived experiences, multidisciplinary background, and pay attention to the body of work. 
+Making discussions in AI more inclusive and effective, we need to move beyond just looking at haughty credentials and focus on lived experiences, multidisciplinary background, and pay attention to the body of work.  
 [Article Link](https://towardsdatascience.com/to-achieve-responsible-ai-close-the-believability-gap-cf809dc81c1e)
 
 ---
 
 #### Prudent Public Sector Procurement of AI Products
 ##### Towards Data Science
-Tips on enhancing the procurement process for AI products to improve Responsible AI outcomes in practice in the use of AI systems in the public sector
+Tips on enhancing the procurement process for AI products to improve Responsible AI outcomes in practice in the use of AI systems in the public sector  
 [Article Link](https://towardsdatascience.com/prudent-public-sector-procurement-of-ai-products-779316d513a8)
 
 ---
 
 #### Why civic competence in AI ethics is needed in 2021
 ##### Towards Data Science
-Outlining how civic competence is one of the more effective instruments in the addressing of ethics, safety, and inclusivity concerns in AI
+Outlining how civic competence is one of the more effective instruments in the addressing of ethics, safety, and inclusivity concerns in AI  
 [Article Link](https://towardsdatascience.com/why-civic-competence-in-ai-ethics-is-needed-in-2021-697ca4bed688)
 
 ---
 
 #### What can we look forward to in AI Ethics in 2021?
 ##### RE-WORK Blog
-An outlook for things to expect in the domain of AI ethics in 2021
+An outlook for things to expect in the domain of AI ethics in 2021  
 [Article Link](https://blog.re-work.co/what-can-we-look-forward-to-in-ai-ethics-in-2021/)
 
 ---
