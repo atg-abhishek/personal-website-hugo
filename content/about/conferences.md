@@ -15,6 +15,19 @@ date: 2017-10-31T22:24:09-05:00
 
 ---
 
+#### AI EXPERT  
+##### UNITED NATIONS OFFICE FOR DISARMAMENT AFFAIRS - RESPONSIBLE INNOVATION WORKSHOP  
+Joint workshop hosted by UNODA and Nanyang Technological University, National University of Singapore, and Singapore University of Technolgy and Design 
+_Invite-only workshop_
+
+---
+#### SPEAKER 
+##### HARVARD BUSINESS SCHOOL TECH CONFERENCE 2021
+Technology and Social Justice  
+[Conference Link](http://www.techconferencehbs.com/)
+
+---
+
 #### SPEAKER 
 ##### 19TH ROK-UN JOINT CONFERENCE ON DISARMAMENT AND NON-PROLIFERATION ISSUES  
 Ethics in the use of AI in War  

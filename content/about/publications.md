@@ -23,6 +23,13 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### Becoming an upstander in AI ethics  
+##### Towards Data Science  
+How to play a more active role in the change that happens in the field of AI ethics 
+[Article Link](https://towardsdatascience.com/becoming-an-upstander-in-ai-ethics-577a38b23e45)
+
+---
+
 #### AI for AI - Developing Artificial Intelligence for an Atmanirbhar India 
 ##### Vidhi Center for Legal Policy 
 India needs more indigenous research on ethical & governance frameworks for application of AI.  

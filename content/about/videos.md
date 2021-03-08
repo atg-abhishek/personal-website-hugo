@@ -18,8 +18,15 @@ date: 2017-10-31T22:21:09-05:00
 #### Role of AI and Emerging Technologies in Achieving Reduced Inequality
 ##### AI Policy Labs 
 In this interview, the capabilities and limitations of AI systems are discussed when it comes to their application to reduce inequality in the world. This is supplemented by insights on the accompanying societal changes that are required to bolster the efficacy of these deployments.
-[Video Link](https://www.youtube.com/watch?v=i-8jWHl7RJ8&feature=emb_logo)
+[![Video Link](https://img.youtube.com/vi/i-8jWHl7RJ8/0.jpg)](https://www.youtube.com/watch?v=i-8jWHl7RJ8)
 
+
+---
+
+#### The State of AI Ethics Panel (December 2020)  
+##### Montreal AI Ethics Institute  
+In conversation with Rumman Chowdhury, Danit Gal, Amba Kak, Katya Klinova, and Victoria Heath  
+[![Video Link](https://img.youtube.com/vi/EcHKGhTxd8s/0.jpg)](https://www.youtube.com/watch?v=EcHKGhTxd8s)
 
 ---
 
