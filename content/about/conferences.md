@@ -15,6 +15,13 @@ date: 2017-10-31T22:24:09-05:00
 
 ---
 
+#### INVITED SPEAKER
+##### YORK UNIVERSITY - TECHNOLOGY FOR EXO-PLANETARY SCIENCES GRADUATE SEMINAR
+Using lab notebooks to bring back rigorous science to data science
+_Invite-only seminar_
+
+---
+
 #### AI EXPERT  
 ##### UNITED NATIONS OFFICE FOR DISARMAMENT AFFAIRS - RESPONSIBLE INNOVATION WORKSHOP  
 Joint workshop hosted by UNODA and Nanyang Technological University, National University of Singapore, and Singapore University of Technolgy and Design 

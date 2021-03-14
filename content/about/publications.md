@@ -23,6 +23,13 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### Get transparent about your AI ethics methodology
+##### Towards Data Science 
+Building more trust with your customers and showcasing maturity in the AI ethics methodology of an organization 
+[Article Link](https://towardsdatascience.com/get-transparent-about-your-ai-ethics-methodology-ec88103aa28)
+
+---
+
 #### Becoming an upstander in AI ethics  
 ##### Towards Data Science  
 How to play a more active role in the change that happens in the field of AI ethics 
