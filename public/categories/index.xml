@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Abhishek Gupta | AI Ethics Researcher | Machine Learning Engineer</title>
+    <title>Abhishek Gupta | AI Ethics Researcher | Machine Learning Engineer</title>
     <link>https://atg-abhishek.github.io/categories/</link>
-    <description>Recent content in Categories on Abhishek Gupta | AI Ethics Researcher | Machine Learning Engineer</description>
+    <description>Recent content on Abhishek Gupta | AI Ethics Researcher | Machine Learning Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 23:12:09 -0500</lastBuildDate>
@@ -12,16 +12,12 @@
     
     
     <item>
-      <title></title>
-      <link>https://atg-abhishek.github.io/categories/</link>
+      <title>Overview of my work</title>
+      <link>https://atg-abhishek.github.io/about/workdetails/</link>
       <pubDate>Tue, 31 Oct 2017 23:12:09 -0500</pubDate>
       
-      <guid>https://atg-abhishek.github.io/categories/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>ics Institute and a principal investigator for several projects happening at the Montreal AI Ethics Institute.
+      <guid>https://atg-abhishek.github.io/about/workdetails/</guid>
+      <description>Current affiliations  Founder, Montreal AI Ethics Institute and a principal investigator for several projects happening at the Montreal AI Ethics Institute.
  Machine Learning Engineer, Microsoft on the Commercial Software Engineering (CSE) team at Microsoft where I work on machine learning projects involving both Azure ML services and open-source implementations. The hallmarks of the CSE team are that we operate in a “code-with” model with our customers. The team is deeply technical and highly specialized in solving the toughest technical challenges faced by Microsoft’s customers and the team follows an open-sourcing model to contribute the code and insights to the community from our engagements.</description>
     </item>
     
@@ -63,8 +59,9 @@ Primary areas of research focus:  ML Retrospectives - a novel approach to making
       <guid>https://atg-abhishek.github.io/about/publications/</guid>
       <description>Featured image courtesy of the Brookfield IIE
 As seen in All copyrights and trademarks belong to the owners of the images
-Get transparent about your AI ethics methodology Towards Data Science Building more trust with your customers and showcasing maturity in the AI ethics methodology of an organization Article Link
-Becoming an upstander in AI ethics Towards Data Science How to play a more active role in the change that happens in the field of AI ethics Article Link</description>
+Simple prompts to make the right decisions in AI ethics Towards Data Science An organizational and design methodology for making AI ethics easier to implement in the existing workflows of your employees
+Article Link
+Get transparent about your AI ethics methodology Towards Data Science Building more trust with your customers and showcasing maturity in the AI ethics methodology of an organization Article Link</description>
     </item>
     
     <item>
@@ -75,8 +72,9 @@ Becoming an upstander in AI ethics Towards Data Science How to play a more activ
       <guid>https://atg-abhishek.github.io/about/publications/</guid>
       <description>Featured image courtesy of the Brookfield IIE
 As seen in All copyrights and trademarks belong to the owners of the images
-Get transparent about your AI ethics methodology Towards Data Science Building more trust with your customers and showcasing maturity in the AI ethics methodology of an organization Article Link
-Becoming an upstander in AI ethics Towards Data Science How to play a more active role in the change that happens in the field of AI ethics Article Link</description>
+Simple prompts to make the right decisions in AI ethics Towards Data Science An organizational and design methodology for making AI ethics easier to implement in the existing workflows of your employees
+Article Link
+Get transparent about your AI ethics methodology Towards Data Science Building more trust with your customers and showcasing maturity in the AI ethics methodology of an organization Article Link</description>
     </item>
     
     <item>
@@ -86,9 +84,11 @@ Becoming an upstander in AI ethics Towards Data Science How to play a more activ
       
       <guid>https://atg-abhishek.github.io/about/conferences/</guid>
       <description>Featured image courtesy of REWORK
-INVITED SPEAKER YORK UNIVERSITY - TECHNOLOGY FOR EXO-PLANETARY SCIENCES GRADUATE SEMINAR Using lab notebooks to bring back rigorous science to data science Invite-only seminar
-AI EXPERT UNITED NATIONS OFFICE FOR DISARMAMENT AFFAIRS - RESPONSIBLE INNOVATION WORKSHOP Joint workshop hosted by UNODA and Nanyang Technological University, National University of Singapore, and Singapore University of Technolgy and Design Invite-only workshop
-SPEAKER HARVARD BUSINESS SCHOOL TECH CONFERENCE 2021 Technology and Social Justice</description>
+SPEAKER INTERNATIONAL WORKSHOP ON HUMAN-ENGAGED COMPUTING Designing for Humans - Responsible AI - Getting Responsible AI in Practice
+Conference Link
+PANELIST AMERICAN PHYSICS SOCIETY - MARCH 2021 MEETING What we can learn from the Physics community to advance the building on ethical AI systems?
+Conference Link
+INVITED SPEAKER YORK UNIVERSITY - TECHNOLOGY FOR EXO-PLANETARY SCIENCES GRADUATE SEMINAR Using lab notebooks to bring back rigorous science to data science Invite-only seminar</description>
     </item>
     
     <item>
@@ -98,9 +98,11 @@ SPEAKER HARVARD BUSINESS SCHOOL TECH CONFERENCE 2021 Technology and Social Justi
       
       <guid>https://atg-abhishek.github.io/about/conferences/</guid>
       <description>Featured image courtesy of REWORK
-INVITED SPEAKER YORK UNIVERSITY - TECHNOLOGY FOR EXO-PLANETARY SCIENCES GRADUATE SEMINAR Using lab notebooks to bring back rigorous science to data science Invite-only seminar
-AI EXPERT UNITED NATIONS OFFICE FOR DISARMAMENT AFFAIRS - RESPONSIBLE INNOVATION WORKSHOP Joint workshop hosted by UNODA and Nanyang Technological University, National University of Singapore, and Singapore University of Technolgy and Design Invite-only workshop
-SPEAKER HARVARD BUSINESS SCHOOL TECH CONFERENCE 2021 Technology and Social Justice</description>
+SPEAKER INTERNATIONAL WORKSHOP ON HUMAN-ENGAGED COMPUTING Designing for Humans - Responsible AI - Getting Responsible AI in Practice
+Conference Link
+PANELIST AMERICAN PHYSICS SOCIETY - MARCH 2021 MEETING What we can learn from the Physics community to advance the building on ethical AI systems?
+Conference Link
+INVITED SPEAKER YORK UNIVERSITY - TECHNOLOGY FOR EXO-PLANETARY SCIENCES GRADUATE SEMINAR Using lab notebooks to bring back rigorous science to data science Invite-only seminar</description>
     </item>
     
     <item>
