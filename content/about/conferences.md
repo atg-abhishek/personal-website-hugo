@@ -15,6 +15,20 @@ date: 2017-10-31T22:24:09-05:00
 
 ---
 
+#### SPEAKER
+##### INTERNATIONAL WORKSHOP ON HUMAN-ENGAGED COMPUTING
+Designing for Humans - Responsible AI - Getting Responsible AI in Practice  
+[Conference Link](http://iw2021.xrenlab.com/)
+
+---
+
+#### PANELIST
+##### AMERICAN PHYSICS SOCIETY - MARCH 2021 MEETING  
+What we can learn from the Physics community to advance the building on ethical AI systems?  
+[Conference Link](https://march.aps.org/)
+
+---
+
 #### INVITED SPEAKER
 ##### YORK UNIVERSITY - TECHNOLOGY FOR EXO-PLANETARY SCIENCES GRADUATE SEMINAR
 Using lab notebooks to bring back rigorous science to data science

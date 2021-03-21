@@ -23,6 +23,13 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### Simple prompts to make the right decisions in AI ethics
+##### Towards Data Science  
+An organizational and design methodology for making AI ethics easier to implement in the existing workflows of your employees  
+[Article Link](https://towardsdatascience.com/simple-prompts-to-make-the-right-decisions-in-ai-ethics-e0475bda8f41)
+
+---
+
 #### Get transparent about your AI ethics methodology
 ##### Towards Data Science 
 Building more trust with your customers and showcasing maturity in the AI ethics methodology of an organization 
