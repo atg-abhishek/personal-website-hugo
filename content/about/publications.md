@@ -23,6 +23,21 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### The importance of goal setting in product development to achieve Responsible AI  
+##### Towards Data Science  
+The exercise of goal setting helps us foreground the reasons for doing a certain project. This is the first step in making sure that we can centre responsible AI principles in the project and inject that in the foundations.  
+[Article Link](https://towardsdatascience.com/the-importance-of-goal-setting-in-product-development-to-achieve-responsible-ai-eda040809292)
+
+---
+
+#### Survey of EU ethical guidelines for commercial AI: case studies in financial services
+##### Springer AI & Ethics Journal  
+A macro perspective examining the general nature of AI implementations and how enforcement should be structured under the new frontier of AI technologies is severely needed. The paper critically analyzes real and potential ethical impacts of AI-enabled systems as well as the standard process regulators, researchers, and firms use to assess the risks of these technologies.  
+[Paper Link](https://link.springer.com/article/10.1007/s43681-021-00048-1)
+
+
+---
+
 #### Simple prompts to make the right decisions in AI ethics
 ##### Towards Data Science  
 An organizational and design methodology for making AI ethics easier to implement in the existing workflows of your employees  

@@ -15,6 +15,35 @@ date: 2017-10-31T22:24:09-05:00
 
 ---
 
+#### SPEAKER  
+##### MCGILL DESAUTELS WOMEN'S GRADUATE ASSOCIATION AND DESAUTELS BUSINESS TECHNOLOGY CLUB WORKSHOP 
+Presentation on the subject of bias and AI ethics along with required organizational changes from a business and management perspective to realize these changes in practice   
+_Workshop for Desautels students_
+
+
+---
+
+#### SPEAKER  
+##### RAJARATNAM SCHOOL OF INTERNATIONAL STUDIES - NANYANG TECHNOLOGICAL UNIVERSITY AI CONFERENCE  
+Presentation on the subject of mutualism as a way to build trustworthy AI at a global level  
+_Invite-only conference_
+
+---
+
+#### PANELIST  
+##### STATE OF AI ETHICS - THE ABUSE AND MISOGYNOIR PLAYBOOK  
+Discussion with the authors of the [Abuse and Misogynoir Playbook](https://www.media.mit.edu/publications/abuse-and-misogynoir-playbook/) that was featured as a part of the [Montreal AI Ethics Institute](https://montrealethics.ai)'s [State of AI Ethics Report January 2021](https://montrealethics.ai/state)  
+[Session information](https://montrealethics.ai/state)
+
+---
+
+#### SPEAKER  
+##### AAAS SCIENCE AND TECHNOLOGY POLICY FELLOWS GUEST LECTURE  
+Presentation on the subject of navigating the jungle of policymaking as technologists  
+_Invite-only workshop for AAAS Fellows_
+
+---
+
 #### SPEAKER
 ##### INTERNATIONAL WORKSHOP ON HUMAN-ENGAGED COMPUTING
 Designing for Humans - Responsible AI - Getting Responsible AI in Practice  

@@ -15,9 +15,16 @@ date: 2017-10-31T22:21:09-05:00
 
 ---
 
-#### Role of AI and Emerging Technologies in Achieving Reduced Inequality
-##### AI Policy Labs 
-In this interview, the capabilities and limitations of AI systems are discussed when it comes to their application to reduce inequality in the world. This is supplemented by insights on the accompanying societal changes that are required to bolster the efficacy of these deployments.
+#### Civic competence against the invisible hand of AI  
+##### TEDx Talk  
+In this TEDx talk, I walk through the notion of civic competence as a way of creating broad-based awareness on the harms that can arise from AI systems and equipping everyday people with the appropriate knowledge to challenge the systems to create a more just, fair, and well-functioning society.  
+[![Video Link](https://img.youtube.com/vi/5QOted0n-BE/0.jpg)](https://www.youtube.com/watch?v=5QOted0n-BE)
+
+---
+
+#### Role of AI and Emerging Technologies in Achieving Reduced Inequality   
+##### AI Policy Labs  
+In this interview, the capabilities and limitations of AI systems are discussed when it comes to their application to reduce inequality in the world. This is supplemented by insights on the accompanying societal changes that are required to bolster the efficacy of these deployments.  
 [![Video Link](https://img.youtube.com/vi/i-8jWHl7RJ8/0.jpg)](https://www.youtube.com/watch?v=i-8jWHl7RJ8)
 
 
@@ -30,15 +37,15 @@ In conversation with Rumman Chowdhury, Danit Gal, Amba Kak, Katya Klinova, and V
 
 ---
 
-#### AI, Ethics, & Your Business Webinar
-##### Springer Nature AI & Ethics Journal
-In this webinar, panelists discuss how stakeholders can be more ethical in their decision-making using AI. Topics covered include risk management, regulations, implementation of ethical AI and the barriers of putting it into practice, AI in Fintech and a discussion of how the cost of "getting it wrong" outweighs the challenges of application.
+#### AI, Ethics, & Your Business Webinar  
+##### Springer Nature AI & Ethics Journal  
+In this webinar, panelists discuss how stakeholders can be more ethical in their decision-making using AI. Topics covered include risk management, regulations, implementation of ethical AI and the barriers of putting it into practice, AI in Fintech and a discussion of how the cost of "getting it wrong" outweighs the challenges of application.  
 [![Video Link](https://github.com/atg-abhishek/presentations/raw/master/springer_panel_2020.png)](https://www.springernature.com/gp/librarians/the-link/blog/blogposts-news-initiatives/ai-ethics-your-business/18684132)
 
 ---
 
 #### Webinar Series on LAWS: Webinar 1 — Technological Aspects
-##### United Nations Institute for Disarmament Research 
+##### United Nations Institute for Disarmament Research  
 This is the first in a three-part Webinar series on the technological, military, and legal aspects of Lethal Autonomous Weapon Systems (LAWS).  
 [![Video Link](https://img.youtube.com/vi/id655evv3yA/0.jpg)](https://www.youtube.com/watch?v=id655evv3yA)
 
