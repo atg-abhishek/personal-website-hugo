@@ -23,6 +23,13 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### Why free and open source software (FOSS) should be the future of Responsible AI
+##### Towards Data Science  
+In a highly fragemented software ecosystem, this article explores the role that FOSS can play in holding the field more accountable in the tools that are built for Responsible AI  
+[Article Link](https://towardsdatascience.com/why-free-and-open-source-software-foss-should-be-the-future-of-responsible-ai-a3691b47fd79)
+
+---
+
 #### The importance of goal setting in product development to achieve Responsible AI  
 ##### Towards Data Science  
 The exercise of goal setting helps us foreground the reasons for doing a certain project. This is the first step in making sure that we can centre responsible AI principles in the project and inject that in the foundations.  
