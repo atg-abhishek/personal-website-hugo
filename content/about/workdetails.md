@@ -21,6 +21,8 @@ date: 2017-10-31T23:12:09-05:00
 
 * **Visiting AI Ethics Researcher, Future of Work, International Visitor Leadership Program, US Department of State** selected to represent Canada on the future of work and develop a transnational understanding to inform policy work to address challenges in the future of work.
 
+* **Technical Expert, Council of Canadian Academies** on the legal, ethical, social, and policy issues in the use of AI for science and engineering.
+
 * **Founding Editorial Board Member, Springer Journal on AI and Ethics** journal aimed at bringing together theoretical and practical scholarship in the field of AI ethics. 
 
 * **Board Member, AI Advisory Board, Dawson College** helping the college shape its 5-year educational plan to incorporate AI meaningfully into the curriculum such that students are equipped for the future of work. Also, emphasizing for a focus on integrating the ethical, safe, and inclusive development of AI as a core tenet in the AI skill development process.

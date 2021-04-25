@@ -23,6 +23,29 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### Systems Design Thinking for Responsible AI
+##### Towards Data Science   
+When thinking about building an AI system and the impact that it might have on society, it is important to take a systems design thinking approach to be as comprehensive as possible in assessing the impacts and proposing redressal mechanisms.  
+[Article Link](https://towardsdatascience.com/systems-design-thinking-for-responsible-ai-a0e51a9a2f97)
+
+
+---
+
+#### Foreword - The Business Case For AI Ethics: Moving From Theory To Action 
+##### All Tech is Human   
+How do you enact change inside an organization to operationalize AI ethics? All Tech Is Human, an organization that is building the Responsible Tech pipeline, has assembled a diverse range of over 100 collaborators to tackle this complex question.  
+[Publication Link](https://www.scribd.com/document/487493539/The-Business-Case-for-AI-Ethics-Moving-From-Theory-to-Action)
+
+---
+
+#### Tradeoff determination for ethics, safety, and inclusivity in AI systems
+##### Towards Data Science  
+Design decisions for AI systems involve value judgements and optimization choices. Some relate to technical considerations like latency and accuracy, others relate to business metrics. But each require careful consideration as they have consequences in the final outcome from the system. This article provides details on how to make tradeoff determinations in an effective manner.  
+[Article Link](https://towardsdatascience.com/tradeoff-determination-for-ethics-safety-and-inclusivity-in-ai-systems-60f20a3d0d0c)
+
+
+---
+
 #### Why free and open source software (FOSS) should be the future of Responsible AI
 ##### Towards Data Science  
 In a highly fragemented software ecosystem, this article explores the role that FOSS can play in holding the field more accountable in the tools that are built for Responsible AI  

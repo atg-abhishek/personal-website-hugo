@@ -30,6 +30,13 @@ date: 2017-10-31T22:22:09-05:00
 
 ---
 
+#### Council of Canadian Academies (CCA) Appoints Expert Panel on AI for Science and Engineering
+##### Council of Canadian Academies  
+April 19, 2021  
+[Press Release](https://www.cca-reports.ca/council-of-canadian-academies-cca-appoints-expert-panel-on-ai-for-science-and-engineering/)
+
+---
+
 #### Montreal, Centre of the A.I. World｜#4 The City of Ethic‪s
 ##### Radio Canada International 
 [Podcast Link](https://podcasts.apple.com/ca/podcast/montreal-centre-of-the-a-i-world-4-the-city-of-ethics/id1553822439?i=1000509787838)

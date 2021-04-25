@@ -15,6 +15,18 @@ date: 2017-10-31T22:21:09-05:00
 
 ---
 
+#### The Lab Notebook: Bringing Science back to Data Science 
+##### TEPS March 2021 Seminar - York University  
+All of us deal with data. A lot of us do data science. And yet only some of us get a chance to really infuse science into that data science work. Ever visit one of your old experiments and find that you want to pull out your hair because you are not sure how you arrived at some of the models that you ended up selecting, why you transformed your data the way you did, and other choices that now seem arbitrary but were perhaps perfectly reasonable then?  
+
+While we invent a time machine that allows us to go back and inspect our previous (more brilliant?) selves, i have a simpler proposal: the humble lab notebook. Remember those ruled notebooks we carried around in physical labs at school diligently writing things down as we figured out how to build the best soda volcanoes? Turns out they can help us solve this problem of tracking our decisions as we arrive at different configurations that we run in our data science work so that we don’t need to curse at our past selves for making poor choices. Not only do they act as great supplements for existing AI lifecycle management tools, but they also help us share our learnings better with our colleagues (and future selves!).  
+
+Come join me on this journey and let’s explore how the lab notebook can bring back science into data science. We’ll look at why you should have a lab notebook for all your data science work, how you should go about maintaining that lab notebook, and what you should and what you should NOT include in that lab notebook.  
+[![Video Link](https://img.youtube.com/vi/RKvnqazj-aQ/0.jpg)](https://www.youtube.com/watch?v=RKvnqazj-aQ)
+
+
+---
+
 #### Civic competence against the invisible hand of AI  
 ##### TEDx Talk  
 In this TEDx talk, I walk through the notion of civic competence as a way of creating broad-based awareness on the harms that can arise from AI systems and equipping everyday people with the appropriate knowledge to challenge the systems to create a more just, fair, and well-functioning society.  

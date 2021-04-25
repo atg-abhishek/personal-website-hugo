@@ -15,6 +15,49 @@ date: 2017-10-31T22:24:09-05:00
 
 ---
 
+#### GUEST LECTURER  
+##### KELLOGG SCHOOL OF MANAGEMENT - NORTHWESTERN UNIVERSITY - AI AND THE FUTURE OF WORK
+Guest lecture for MBA students on key lessons for organizations in responsible AI.  
+_Invite-only session_
+
+---
+
+
+#### TECHNICAL EXPERT
+##### UNITED NATIONS INSTITUTE FOR DISARMAMENT RESEARCH - MEANINGFUL HUMAN CONTROL FOR AUTONOMOUS WEAPONS SYSTEMS  
+Table-top exercises in partnership with military, legal, and technical experts to assess meaningful human control in the context of autonomous weapons systems.  
+_Invite-only session_
+
+---
+
+#### GUEST LECTURER
+##### COMP 551 - APPLIED MACHINE LEARNING - MCGILL UNIVERSITY
+Presentation to senior undergraduate and graduate students in the Computer Science programme at McGill University on how to operationalize AI ethics as it relates to industry and research work  
+[Session Link](http://www.reirab.com/comp551.html)
+
+---
+
+#### CO-ORGANIZER
+##### MLSYS 2021 CONFERENCE - JOURNE WORKSHOP  
+The goal of this event is to share the evolution of research ideas through specific examples of negative results, retrospectives, and project post-mortems.  
+[Workshop Link](https://sites.google.com/view/workshop-journe/home)
+
+---
+
+#### SPEAKER 
+##### PURDUE UNIVERSITY - ENGINEERING ETHICS ADVISORY COUNCIL 2021 SESSION  
+Presentation on operationalizing AI ethics and how to move from principles to practice.  
+_Invite-only session_
+
+---
+
+#### PANELIST
+##### CANADA SCHOOL OF PUBLIC SERVICE - Policy Considerations Shaping Digital Transformation  
+Unpacking the policy lens and considerations of digital transformation, and exploring what these considerations might mean for employees and senior leaders within the public service.  
+[Session Link](https://www.csps-efpc.gc.ca/events/policy-considerations/index-eng.aspx)
+
+---
+
 #### SPEAKER  
 ##### MCGILL DESAUTELS WOMEN'S GRADUATE ASSOCIATION AND DESAUTELS BUSINESS TECHNOLOGY CLUB WORKSHOP 
 Presentation on the subject of bias and AI ethics along with required organizational changes from a business and management perspective to realize these changes in practice   
