@@ -23,6 +23,13 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### The importance of systems adaptability for meaningful Responsible AI deployment
+##### Towards Data Science  
+Given that the sociotechnical environment within which AI systems are deployed are inherently dynamic and complex, we need the systems to be adaptable to mitigate negative consequences that arise from the deployment of these systems.  
+[Article Link](https://towardsdatascience.com/the-importance-of-systems-adaptability-for-meaningful-responsible-ai-deployment-a14e6ccd0f35)
+
+---
+
 #### Systems Design Thinking for Responsible AI
 ##### Towards Data Science   
 When thinking about building an AI system and the impact that it might have on society, it is important to take a systems design thinking approach to be as comprehensive as possible in assessing the impacts and proposing redressal mechanisms.  
