@@ -15,6 +15,13 @@ date: 2017-10-31T22:24:09-05:00
 
 ---
 
+#### SPEAKER 
+##### csv,conf,v6
+Talk on The Lab Notebook: Bringing Science Back to Data Science
+[Conference Link](https://csvconf.com/speakers/#abhishek-gupta)
+
+---
+
 #### GUEST LECTURER  
 ##### KELLOGG SCHOOL OF MANAGEMENT - NORTHWESTERN UNIVERSITY - AI AND THE FUTURE OF WORK
 Guest lecture for MBA students on key lessons for organizations in responsible AI.  
