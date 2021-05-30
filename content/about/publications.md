@@ -23,6 +23,14 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### Building for resiliency in AI systems  
+##### Towards Data Science  
+Resiliency is a key idea if we want to build sustainable ethical, safe, and inclusive AI systems that don't succumb to failures in their lifespan of existence.  
+[Article Link](https://towardsdatascience.com/building-for-resiliency-in-ai-systems-24eed076d3d6)
+
+
+---
+
 #### The importance of systems adaptability for meaningful Responsible AI deployment
 ##### Towards Data Science  
 Given that the sociotechnical environment within which AI systems are deployed are inherently dynamic and complex, we need the systems to be adaptable to mitigate negative consequences that arise from the deployment of these systems.  
