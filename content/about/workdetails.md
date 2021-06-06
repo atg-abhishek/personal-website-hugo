@@ -19,8 +19,6 @@ date: 2017-10-31T23:12:09-05:00
 
 * **Board Member, Responsible AI board for CSE, Microsoft** and through my involvement in serving on this board, I have exposure to applied projects across a variety of industries where a lot of these issues emerge. I have been a part of developing and implementing actionable guidance for developers and other stakeholders like designers, business managers, and others so that they can make informed decisions that align with the values and objectives of the organization.
 
-* **Visiting AI Ethics Researcher, Future of Work, International Visitor Leadership Program, US Department of State** selected to represent Canada on the future of work and develop a transnational understanding to inform policy work to address challenges in the future of work.
-
 * **Technical Expert, Council of Canadian Academies** on the legal, ethical, social, and policy issues in the use of AI for science and engineering.
 
 * **Founding Editorial Board Member, Springer Journal on AI and Ethics** journal aimed at bringing together theoretical and practical scholarship in the field of AI ethics. 
@@ -35,17 +33,11 @@ date: 2017-10-31T23:12:09-05:00
 
 * **Guest Lecturer, McGill University School of Continuing Studies** for the Data Science in Business Decisions course on the special topic of AI Ethics.
 
-* **Responsible AI Lead, Data Advisory Council, Northwest Commission on Colleges and Universities** helping the organization navigate the use of AI and big data practices in the education and administrative functions within educational organizations. 
-
 * **AI Ethics Researcher (Technical) and Expert Collaborator, AI Policy Exchange** working on policy and governance issues related to the impacts of AI on society.
-
-* **Subject Matter Expert, Certified Ethical Emerging Technologies, CertNexus** helping the group create the world's first certification program for AI ethics for professionals.
 
 * **Global Shaper, World Economic Forum** part of the Montreal Hub and involved with the Responsible AI project that collected feedback from the general public to build an understanding of the layman's grasp of AI and potential ethical concerns that arise from its use.
 
 * **Member, Banff Forum** part of the group bringing an expertise in machine learning and ethics. Also, helping to provide critical commentary for the community on the use of technology in novel circumstances, as an example the use of contact- and proximity-tracing applications to combat COVID-19.
-
-* **AI Ethics Mentor, Acorn Aspirations** helping teens who are interested and working in the field of AI to start to think about the ethical, safety, and inclusivity issues in the development and deployment of AI systems. Specifically, tailoring content in this domain so that it is accessible to younger audiences to create a high-level of engagement in this domain for them.
 
 * **AI Ethics Expert, Ethical Intelligence Co.** working with an interdisciplinary experts group in doing fundamental research, hosting workshops, developing curriculum in AI ethics, and working on AI ethics audits for different organizations.
  
