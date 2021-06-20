@@ -23,6 +23,20 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### The current state of affairs and a roadmap for effective carbon-accounting tooling in AI | Sustainable Software
+##### Microsoft Developer Blogs 
+Digital services consume a lot of energy and it goes without saying that in a world with accelerating climate change, we must be conscious in all parts of life with our carbon footprints. In the case of the software that we write, specifically, the AI systems we build, these considerations become even more important because of the large upfront computational resources that training some large AI models consume, and the subsequent carbon emissions resulting from it. Thus, effective carbon accounting for artificial intelligence systems is critical!  
+[Article Link](https://devblogs.microsoft.com/sustainable-software/the-current-state-of-affairs-and-a-roadmap-for-effective-carbon-accounting-tooling-in-ai/?WT.mc_id=green-30456-cxa)
+
+---
+
+#### A Social and Environmental Certificate for AI Systems
+##### Branch Magazine Issue 2  
+AI systems are not without their flaws. There are many ethical issues to consider when thinking about deploying AI systems into society—particularly environmental impacts.   
+[Publication Link](https://branch.climateaction.tech/issues/issue-2/secure-framework/)
+
+---
+
 #### Building for resiliency in AI systems  
 ##### Towards Data Science  
 Resiliency is a key idea if we want to build sustainable ethical, safe, and inclusive AI systems that don't succumb to failures in their lifespan of existence.  

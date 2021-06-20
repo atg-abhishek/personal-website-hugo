@@ -15,6 +15,13 @@ date: 2017-10-31T22:24:09-05:00
 
 ---
 
+#### SPEAKER 
+##### Nonviolence International Southeast Asia Conference 2021
+Ethics in the use of AI in war  
+_Invite-only conference_
+
+---
+
 #### MODERATOR
 ##### The State of AI Ethics Panel May 2021  
 Panel discussing the research and reporting in Q2 2021 based on [The State of AI Ethics Report Volume 4](https://montrealethics.ai/volume4) published by the [Montreal AI Ethics Institute](https://montrealethics.ai)  

@@ -30,6 +30,13 @@ date: 2017-10-31T22:22:09-05:00
 
 ---
 
+#### Putting AI Ethics Into Practice | Abhishek Gupta
+##### Alteryx Data Science Mixer Podcast  
+June 14, 2021  
+[Podcast Link](https://community.alteryx.com/t5/Data-Science-Mixer/Putting-AI-ethics-into-practice-Abhishek-Gupta/ba-p/772453)
+
+---
+
 #### Council of Canadian Academies (CCA) Appoints Expert Panel on AI for Science and Engineering
 ##### Council of Canadian Academies  
 April 19, 2021  
