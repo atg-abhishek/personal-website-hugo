@@ -23,6 +23,13 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### AI GOVERNANCE IN 2020 - A YEAR IN REVIEW: OBSERVATIONS FROM 52 GLOBAL EXPERTS
+##### Shanghai Institute for Science of Science   
+The report was contributed by 52 experts from 47 institutions, including AI scientists, academic researchers, industry representatives, policy experts, and others. This group of experts covers a wide range of regional developments and perspectives, including those in the United States, Europe and Asia.  
+[Report Link](https://www.aigovernancereview.com/)
+
+---
+
 #### The current state of affairs and a roadmap for effective carbon-accounting tooling in AI | Sustainable Software
 ##### Microsoft Developer Blogs 
 Digital services consume a lot of energy and it goes without saying that in a world with accelerating climate change, we must be conscious in all parts of life with our carbon footprints. In the case of the software that we write, specifically, the AI systems we build, these considerations become even more important because of the large upfront computational resources that training some large AI models consume, and the subsequent carbon emissions resulting from it. Thus, effective carbon accounting for artificial intelligence systems is critical!  
