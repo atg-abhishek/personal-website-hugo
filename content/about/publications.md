@@ -23,6 +23,13 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### How to build an AI Ethics team at your organization?
+##### Towards Data Science  
+This article addresses the common challenges that someone building an AI ethics team at an organization is likely to face and what they can do to overcome those challenges.  
+[Article Link](https://towardsdatascience.com/how-to-build-an-ai-ethics-team-at-your-organization-373823b03293)
+
+---
+
 #### AI GOVERNANCE IN 2020 - A YEAR IN REVIEW: OBSERVATIONS FROM 52 GLOBAL EXPERTS
 ##### Shanghai Institute for Science of Science   
 The report was contributed by 52 experts from 47 institutions, including AI scientists, academic researchers, industry representatives, policy experts, and others. This group of experts covers a wide range of regional developments and perspectives, including those in the United States, Europe and Asia.  
