@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Abhishek Gupta | AI Ethics Researcher | Machine Learning Engineer</title>
+    <title>Abhishek Gupta | AI Ethics Researcher | Machine Learning Engineer</title>
     <link>https://atg-abhishek.github.io/categories/</link>
-    <description>Recent content in Categories on Abhishek Gupta | AI Ethics Researcher | Machine Learning Engineer</description>
+    <description>Recent content on Abhishek Gupta | AI Ethics Researcher | Machine Learning Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 23:12:09 -0500</lastBuildDate>
@@ -12,16 +12,12 @@
     
     
     <item>
-      <title></title>
-      <link>https://atg-abhishek.github.io/categories/</link>
+      <title>Overview of my work</title>
+      <link>https://atg-abhishek.github.io/about/workdetails/</link>
       <pubDate>Tue, 31 Oct 2017 23:12:09 -0500</pubDate>
       
-      <guid>https://atg-abhishek.github.io/categories/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>ics Institute and a principal investigator for several projects happening at the Montreal AI Ethics Institute.
+      <guid>https://atg-abhishek.github.io/about/workdetails/</guid>
+      <description>Current affiliations  Founder, Montreal AI Ethics Institute and a principal investigator for several projects happening at the Montreal AI Ethics Institute.
  Machine Learning Engineer, Microsoft on the Commercial Software Engineering (CSE) team at Microsoft where I work on machine learning projects involving both Azure ML services and open-source implementations. The hallmarks of the CSE team are that we operate in a “code-with” model with our customers. The team is deeply technical and highly specialized in solving the toughest technical challenges faced by Microsoft’s customers and the team follows an open-sourcing model to contribute the code and insights to the community from our engagements.</description>
     </item>
     
@@ -63,9 +59,7 @@ Primary areas of research focus:  ML Retrospectives - a novel approach to making
       <guid>https://atg-abhishek.github.io/about/publications/</guid>
       <description>Featured image courtesy of the Brookfield IIE
 As seen in All copyrights and trademarks belong to the owners of the images
-How to build an AI Ethics team at your organization? Towards Data Science This article addresses the common challenges that someone building an AI ethics team at an organization is likely to face and what they can do to overcome those challenges.
-Article Link
-AI GOVERNANCE IN 2020 - A YEAR IN REVIEW: OBSERVATIONS FROM 52 GLOBAL EXPERTS Shanghai Institute for Science of Science The report was contributed by 52 experts from 47 institutions, including AI scientists, academic researchers, industry representatives, policy experts, and others.</description>
+How data governance technologies can democratize data sharing for community well-being Data &amp;amp; Policy Journal, Cambridge University Press Data sharing efforts to allow underserved groups and organizations to overcome the concentration of power in our data landscape. A few special organizations, due to their data monopolies and resources, are able to decide which problems to solve and how to solve them.</description>
     </item>
     
     <item>
@@ -76,9 +70,7 @@ AI GOVERNANCE IN 2020 - A YEAR IN REVIEW: OBSERVATIONS FROM 52 GLOBAL EXPERTS Sh
       <guid>https://atg-abhishek.github.io/about/publications/</guid>
       <description>Featured image courtesy of the Brookfield IIE
 As seen in All copyrights and trademarks belong to the owners of the images
-How to build an AI Ethics team at your organization? Towards Data Science This article addresses the common challenges that someone building an AI ethics team at an organization is likely to face and what they can do to overcome those challenges.
-Article Link
-AI GOVERNANCE IN 2020 - A YEAR IN REVIEW: OBSERVATIONS FROM 52 GLOBAL EXPERTS Shanghai Institute for Science of Science The report was contributed by 52 experts from 47 institutions, including AI scientists, academic researchers, industry representatives, policy experts, and others.</description>
+How data governance technologies can democratize data sharing for community well-being Data &amp;amp; Policy Journal, Cambridge University Press Data sharing efforts to allow underserved groups and organizations to overcome the concentration of power in our data landscape. A few special organizations, due to their data monopolies and resources, are able to decide which problems to solve and how to solve them.</description>
     </item>
     
     <item>
