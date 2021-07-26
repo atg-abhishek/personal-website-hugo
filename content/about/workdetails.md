@@ -19,7 +19,7 @@ date: 2017-10-31T23:12:09-05:00
 
 * **Board Member, Responsible AI board for CSE, Microsoft** and through my involvement in serving on this board, I have exposure to applied projects across a variety of industries where a lot of these issues emerge. I have been a part of developing and implementing actionable guidance for developers and other stakeholders like designers, business managers, and others so that they can make informed decisions that align with the values and objectives of the organization.
 
-* **Member, Standards, Innovation, and Community Working Groups, Green Software Foundation** working on creating industry-wide consensus on methodology and tooling to assess the environmental impacts of software systems. 
+* **Chair, Standards Working Group, Green Software Foundation** working on creating industry-wide consensus on methodology and tooling to assess the environmental impacts of software systems. 
 
 * **Technical Expert, Council of Canadian Academies** on the legal, ethical, social, and policy issues in the use of AI for science and engineering.
 
