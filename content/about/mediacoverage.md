@@ -30,6 +30,14 @@ date: 2017-10-31T22:22:09-05:00
 
 ---
 
+#### AI Weekly: The road to ethical adoption of AI  
+##### VentureBeat   
+August 13, 2021  
+[Article Link](https://venturebeat.com/2021/08/13/ai-weekly-the-road-to-ethical-adoption-of-ai/)
+
+
+--- 
+
 #### Putting AI Ethics Into Practice | Abhishek Gupta
 ##### Alteryx Data Science Mixer Podcast  
 June 14, 2021  
