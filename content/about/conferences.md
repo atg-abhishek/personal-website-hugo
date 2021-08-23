@@ -16,6 +16,14 @@ date: 2017-10-31T22:24:09-05:00
 ---
 
 #### SPEAKER 
+##### The Launch Space, August 2021, Microsoft
+A roadmap to more sustainable AI systems  
+[Video Link](https://www.youtube.com/watch?v=wIC2Za8hHuE)
+
+
+---
+
+#### SPEAKER 
 ##### Nonviolence International Southeast Asia Conference 2021
 Ethics in the use of AI in war  
 _Invite-only conference_

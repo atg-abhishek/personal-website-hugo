@@ -15,6 +15,14 @@ date: 2017-10-31T22:21:09-05:00
 
 ---
 
+#### A roadmap to more sustainable AI systems
+##### The Launch Space, Microsoft
+AI has a sizeable carbon footprint, both during training and deployment phases. How do we build AI systems that are greener? The first thing we need to understand is how to account and calculate the carbon impact of all the resources that go into the AI lifecycle. So what is the current state of carbon accounting in AI? How effective has it been? And can we do better? This conversation will answer these questions and dive into what the future of carbon accounting in AI looks like and what role standards can play in this, especially if we want to utilize actionable insights to trigger meaningful behavior change.  
+[![Video Link](https://img.youtube.com/vi/wIC2Za8hHuE/0.jpg)](https://www.youtube.com/watch?v=wIC2Za8hHuE)
+
+
+---
+
 #### Future of Work and Disability: Bias in Candidate Selection
 ##### Inclusive Design Research Center, OCAD University
 Workshop: Addressing Bias in Machine Learning Models on Candidate Selection 
