@@ -15,6 +15,13 @@ date: 2017-10-31T22:21:09-05:00
 
 ---
 
+#### Stasis in AI Ethics 
+##### AI Village, DEFCON 29 (2021)
+The field of AI Ethics has reached a stasis in terms of applicability of ideas in real-life scenarios. This talk dives into some of the areas of concern and how to address the challenges so that we can move to a future with more meaningful and applicable solutions.  
+[![Video Link](https://img.youtube.com/vi/sjkIWubV-rU/0.jpg)](https://www.youtube.com/watch?v=sjkIWubV-rU)
+
+---
+
 #### A roadmap to more sustainable AI systems
 ##### The Launch Space, Microsoft
 AI has a sizeable carbon footprint, both during training and deployment phases. How do we build AI systems that are greener? The first thing we need to understand is how to account and calculate the carbon impact of all the resources that go into the AI lifecycle. So what is the current state of carbon accounting in AI? How effective has it been? And can we do better? This conversation will answer these questions and dive into what the future of carbon accounting in AI looks like and what role standards can play in this, especially if we want to utilize actionable insights to trigger meaningful behavior change.  
