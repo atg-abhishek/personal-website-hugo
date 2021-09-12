@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Abhishek Gupta | AI Ethics Researcher | Machine Learning Engineer</title>
+    <title>Abhishek Gupta | AI Ethics Researcher | Machine Learning Engineer</title>
     <link>https://atg-abhishek.github.io/categories/</link>
-    <description>Recent content in Categories on Abhishek Gupta | AI Ethics Researcher | Machine Learning Engineer</description>
+    <description>Recent content on Abhishek Gupta | AI Ethics Researcher | Machine Learning Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 23:12:09 -0500</lastBuildDate>
@@ -12,16 +12,12 @@
     
     
     <item>
-      <title></title>
-      <link>https://atg-abhishek.github.io/categories/</link>
+      <title>Overview of my work</title>
+      <link>https://atg-abhishek.github.io/about/workdetails/</link>
       <pubDate>Tue, 31 Oct 2017 23:12:09 -0500</pubDate>
       
-      <guid>https://atg-abhishek.github.io/categories/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>ics Institute and a principal investigator for several projects happening at the Montreal AI Ethics Institute.
+      <guid>https://atg-abhishek.github.io/about/workdetails/</guid>
+      <description>Current affiliations  Founder, Montreal AI Ethics Institute and a principal investigator for several projects happening at the Montreal AI Ethics Institute.
  Machine Learning Engineer, Microsoft on the Commercial Software Engineering (CSE) team at Microsoft where I work on machine learning projects involving both Azure ML services and open-source implementations. The hallmarks of the CSE team are that we operate in a “code-with” model with our customers. The team is deeply technical and highly specialized in solving the toughest technical challenges faced by Microsoft’s customers and the team follows an open-sourcing model to contribute the code and insights to the community from our engagements.</description>
     </item>
     
@@ -132,7 +128,7 @@ As seen in                                                        All copyrights
       
       <guid>https://atg-abhishek.github.io/about/videos/</guid>
       <description>Screenshot from the BorealisAI Northern Frontier Series featured interview on AI ethics
-A roadmap to more sustainable AI systems The Launch Space, Microsoft AI has a sizeable carbon footprint, both during training and deployment phases. How do we build AI systems that are greener? The first thing we need to understand is how to account and calculate the carbon impact of all the resources that go into the AI lifecycle.</description>
+Stasis in AI Ethics AI Village, DEFCON 29 (2021) The field of AI Ethics has reached a stasis in terms of applicability of ideas in real-life scenarios. This talk dives into some of the areas of concern and how to address the challenges so that we can move to a future with more meaningful and applicable solutions.</description>
     </item>
     
     <item>
@@ -142,7 +138,7 @@ A roadmap to more sustainable AI systems The Launch Space, Microsoft AI has a si
       
       <guid>https://atg-abhishek.github.io/about/videos/</guid>
       <description>Screenshot from the BorealisAI Northern Frontier Series featured interview on AI ethics
-A roadmap to more sustainable AI systems The Launch Space, Microsoft AI has a sizeable carbon footprint, both during training and deployment phases. How do we build AI systems that are greener? The first thing we need to understand is how to account and calculate the carbon impact of all the resources that go into the AI lifecycle.</description>
+Stasis in AI Ethics AI Village, DEFCON 29 (2021) The field of AI Ethics has reached a stasis in terms of applicability of ideas in real-life scenarios. This talk dives into some of the areas of concern and how to address the challenges so that we can move to a future with more meaningful and applicable solutions.</description>
     </item>
     
   </channel>

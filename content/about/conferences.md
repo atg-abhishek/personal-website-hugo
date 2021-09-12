@@ -15,6 +15,20 @@ date: 2017-10-31T22:24:09-05:00
 
 ---
 
+#### PANELIST 
+##### Canadian Open Data Summit 2021, City of Montreal and Secretariat of the Quebec Treasury Board
+Ethical and Transparent Artificial Intelligence  
+[Conference Link](https://opendatasummit.ca/)
+
+---
+
+#### POSTER PRESENTATION
+##### Workshop on leveraging AI in environmental sciences, NOAA Center for Artificial Intelligence
+Carbon accounting as a way to build more sustainable AI systems: An analysis and roadmap for the community  
+[Conference Link](https://2021noaaaiworkshop.sched.com/)
+
+---
+
 #### SPEAKER 
 ##### The Launch Space, August 2021, Microsoft
 A roadmap to more sustainable AI systems  
