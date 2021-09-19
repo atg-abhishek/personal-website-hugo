@@ -23,6 +23,15 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### The Imperative for Sustainable AI Systems
+##### The Gradient 
+AI systems are compute-intensive: the AI lifecycle often requires long-running training jobs, hyperparameter searches, inference jobs, and other costly computations. They also require massive amounts of data that might be moved over the wire, and require specialized hardware to operate effectively, especially large-scale AI systems. All of these activities require electricity — which has a carbon cost. There are also carbon emissions in ancillary needs like hardware and datacenter cooling.  
+  
+Thus, AI systems have a massive carbon footprint. This carbon footprint also has consequences in terms of social justice as we will explore in this article. Here, we use sustainability to talk about not just environmental impact, but also social justice implications and impacts on society. Though an important area, we don’t use the term sustainable AI here to mean applying AI to solve environmental issues. Instead, a critical examination of the impacts of AI on the physical and social environment is the focus of our discussion.  
+[Article Link](https://thegradient.pub/sustainable-ai/)
+
+---
+
 #### How data governance technologies can democratize data sharing for community well-being
 ##### Data & Policy Journal, Cambridge University Press  
 Data sharing efforts to allow underserved groups and organizations to overcome the concentration of power in our data landscape. A few special organizations, due to their data monopolies and resources, are able to decide which problems to solve and how to solve them. But even though data sharing creates a counterbalancing democratizing force, it must nevertheless be approached cautiously. Underserved organizations and groups must navigate difficult barriers related to technological complexity and legal risk. To examine what those common barriers are, one type of data sharing effort—data trusts—are examined, specifically the reports commenting on that effort. To address these practical issues, data governance technologies have a large role to play in democratizing data trusts safely and in a trustworthy manner. Yet technology is far from a silver bullet. It is dangerous to rely upon it. But technology that is no-code, flexible, and secure can help more responsibly operate data trusts. This type of technology helps innovators put relationships at the center of their efforts.  

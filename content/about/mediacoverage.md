@@ -30,6 +30,13 @@ date: 2017-10-31T22:22:09-05:00
 
 ---
 
+#### 8 Leading Activists That Are Promoting Ethical AI
+##### Analytics India Magazine
+September 16, 2021  
+[Article Link](https://analyticsindiamag.com/these-leading-activists-are-promoting-ethical-ai/)
+
+---
+
 #### AI Weekly: The road to ethical adoption of AI  
 ##### VentureBeat   
 August 13, 2021  
