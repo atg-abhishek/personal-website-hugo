@@ -15,6 +15,13 @@ date: 2017-10-31T22:24:09-05:00
 
 ---
 
+#### SPEAKER
+##### Implementing Responsible AI within organizations, Innovation, Science, and Economic Development (ISED), Government of Canada
+A roadmap for addressing organizational barriers in implementing Responsible AI practices.  
+_Invite-only session_ 
+
+---
+
 #### PANELIST 
 ##### Canadian Open Data Summit 2021, City of Montreal and Secretariat of the Quebec Treasury Board
 Ethical and Transparent Artificial Intelligence  
