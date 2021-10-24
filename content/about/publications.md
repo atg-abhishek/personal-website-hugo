@@ -23,6 +23,13 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### The machine's rage against the planet
+##### Expert Speak, The Observer Research Foundation 
+How AI systems impact the environment and how we can be more sustainable in their design, development, and deployment  
+[Article Link](https://www.orfonline.org/expert-speak/the-machines-rage-against-the-planet/)
+
+---
+
 #### The Imperative for Sustainable AI Systems
 ##### The Gradient 
 AI systems are compute-intensive: the AI lifecycle often requires long-running training jobs, hyperparameter searches, inference jobs, and other costly computations. They also require massive amounts of data that might be moved over the wire, and require specialized hardware to operate effectively, especially large-scale AI systems. All of these activities require electricity — which has a carbon cost. There are also carbon emissions in ancillary needs like hardware and datacenter cooling.  
