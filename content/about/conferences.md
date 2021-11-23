@@ -15,6 +15,13 @@ date: 2017-10-31T22:24:09-05:00
 
 ---
 
+#### KEYNOTE SPEAKER
+##### International Conference on AI For People: Towards Sustainable AI
+Turning the Gears: Organizational and Technical Challenges in the operationalization of AI Ethics  
+[Conference Link](https://aiforpeople.org/conference/speaker-abhishek.php)
+
+---
+
 #### PANELIST
 ##### Eye on A.I: What is the Future of Artificial Intelligence? - Toronto Public Library
 Machine learning technology is advancing at an unprecedented speed. Many major industries are now starting to rely heavily on A.I. to do everything from the most basic tasks to the most complex processes. As technology evolves and our co-dependence on A.I. becomes even stronger, there are still many questions related to the impact of A.I.
