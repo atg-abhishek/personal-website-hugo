@@ -15,6 +15,37 @@ date: 2017-10-31T22:24:09-05:00
 
 ---
 
+#### PANELIST
+##### Eye on A.I: What is the Future of Artificial Intelligence? - Toronto Public Library
+Machine learning technology is advancing at an unprecedented speed. Many major industries are now starting to rely heavily on A.I. to do everything from the most basic tasks to the most complex processes. As technology evolves and our co-dependence on A.I. becomes even stronger, there are still many questions related to the impact of A.I.
+
+In this panel conversation, we gather leading experts working in the field of A.I. technology development and public policy to discuss ensuring humans are in the loop, ensuring ethics is a common component and creating frameworks and policies in AI.  
+[Session Link](https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDMEVT450335&R=EVT450335)
+
+---
+
+#### MODERATOR
+##### Alternative AI Futures, Goethe Institut AI Festival 2021
+A panel featuring Kathleen Siminyu, Priya L. Donti, and Jason Edward Lewis exploring what alternative AI futures can look like and how we can get there.  
+[Conference Link](https://www.goethe.de/prj/wmd/en/ver.cfm?event_id=22417011)
+
+
+---
+
+#### MODERATOR
+##### Machine Learning and Data Science (MLADS) Fall 2021 Conference, Microsoft
+A conversation series with experts on Green AI covering an overview, hardware, and tooling to build more sustainable, and greener AI systems.  
+_Invite-only sessions internal to Microsoft_
+
+---
+
+#### MODERATOR
+##### The Invisible Elephant in the Room: The Trustworthy ML Un-Symposium
+To achieve the promise of AI for societal impact, black-box models must not only be "accurate" but also satisfy trustworthiness properties that facilitate open collaboration and ensure ethical outcomes. The purpose of this un-symposium is to discuss the interdisciplinary topics of robustness, fairness, privacy, and ethics of AI tools. In particular, we want to highlight the significant gap in deploying these AI models in practice when the stakes are high for commercial applications of AI where millions of human lives are at risk.  
+[Symposium Link](https://www.trustworthyml.org/symposium)
+
+---
+
 #### SPEAKER
 ##### Implementing Responsible AI within organizations, Innovation, Science, and Economic Development (ISED), Government of Canada
 A roadmap for addressing organizational barriers in implementing Responsible AI practices.  

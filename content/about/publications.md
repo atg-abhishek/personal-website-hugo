@@ -23,6 +23,42 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### Towards Sustainable AI 
+##### The Science of Where Magazine
+An interview series on what green software engineering means and the impact that AI is having on the environment.  
+[Article Link](https://www.thescienceofwheremagazine.it/2021/11/17/towards-sustainable-ai/)
+
+---
+
+#### Critical Analysis of “Responsible AI #AIforAll: Approach Document for India”
+##### Proceedings of the 17th Annual Social Informatics Research Symposium and the 3rd Annual Information Ethics and Policy Workshop
+Governments across the world have increasingly focused on creating national policy frameworks to take advantage of AI developments for their strategic national interests, as well as to adapt and adjust AI technologies that operate within their socio-cultural and political constraints (Schiff et al 2020). However, most empirical research has mainly utilized AI-related ethics documents produced by governments located in the Global North. In this study, we present a critical analysis of Responsible AI #AIforAll: Approach Document for India (thereafter, the Approach Paper), a national AI strategy document published by NITI Aayog, a premier public policy think-tank of the Government of India1. This document is one of the first of its kind in the Global South. Not only it would serve as an important public policy reference for creating and discussing responsible AI in India, but it also has potential to serve as an exemplary policy document for other developing countries. We identify and discuss key missing elements in the document such as lack of Indian context, deterministic framing, epistemic incompleteness, and inaccuracies. We conclude with a list of recommendations for improving the process of generating a national strategy document on responsible AI.  
+[Article Link](https://www.ideals.illinois.edu/handle/2142/111789)
+
+---
+
+#### Why Should Sustainability Be A First-Class Consideration For Ai Systems?
+##### Green Software Foundation 
+Should sustainability be a first-class consideration for AI systems? Yes, because AI systems have environmental and societal implications. What can you do to make green AI a reality?  
+[Article Link](https://greensoftware.foundation/articles/why-should-sustainability-be-a-first-class-consideration-for-ai-systems)
+
+
+---
+
+#### Software Carbon Intensity: Crafting a Standard
+##### Green Software Foundation 
+The Software Carbon Intensity (SCI) standard gives an actionable approach to software designers, developers and deployers to measure the carbon impacts of their systems.  
+[Article Link](https://greensoftware.foundation/articles/software-carbon-intensity-crafting-a-standard)
+
+---
+
+#### What Do We Need to Build More Sustainable AI Systems?
+##### Green Software Foundation 
+AI systems can have significant environmental impact. We are risking severe environmental and social harm if we fail to make greener AI systems.  
+[Article link](https://greensoftware.foundation/articles/what-do-we-need-to-build-more-sustainable-ai-systems)
+
+---
+
 #### The machine's rage against the planet
 ##### Expert Speak, The Observer Research Foundation 
 How AI systems impact the environment and how we can be more sustainable in their design, development, and deployment  
