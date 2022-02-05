@@ -23,6 +23,15 @@ date: 2017-10-31T22:25:09-05:00
 
 ---
 
+#### Beyond Single Dimensional Metrics for Digital Sustainability
+##### Green Software Foundation, Branch Magazine, and Data Center Dynamics  
+In measuring energy consumption of software a move towards multi-dimensional, rich metadata-supplemented metrics offer better opportunities to implement actions that actually make software greener.  
+[Branch Magazine](https://branch.climateaction.tech/issues/issue-3/beyond-single-dimensional-metrics-for-digital-sustainability/)  
+[Green Software Foundation](https://greensoftware.foundation/articles/beyond-single-dimensional-metrics-for-digital-sustainability)  
+[Data Center Dynamics](https://www.datacenterdynamics.com/en/opinions/beyond-single-dimensional-metrics-for-digital-sustainability/)  
+
+---
+
 #### Towards Sustainable AI 
 ##### The Science of Where Magazine
 An interview series on what green software engineering means and the impact that AI is having on the environment.  
